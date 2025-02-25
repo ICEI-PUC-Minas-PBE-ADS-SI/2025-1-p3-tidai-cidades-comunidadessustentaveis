@@ -4,7 +4,7 @@
 
 `DISCIPLINA: Trabalho Interdisciplinar Desenvolvimento de Aplicação Interativa`
 
-`Xº semestre/ANO`
+`3º semestre/ANO`
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
