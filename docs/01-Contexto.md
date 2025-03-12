@@ -5,13 +5,8 @@
 ## Problema
 <p align="justify">O principal problema abordado pelo projeto é a falha na comunicação entre os moradores e os responsáveis pela manutenção da infraestrutura, o que resulta em atrasos e ineficiências na resolução de problemas como o vazamento de água, ruas esburacadas e falhas na iluminação pública. A ausência de um sistema integrado de acompanhamento e denúncia dificulta a gestão dessas questões, afetando diretamente a segurança e o bem-estar da população.</p>
 
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
-<p align="justify">O objetivo do projeto é criar uma plataforma digital que permita aos cidadãos reportar problemas de infraestrutura de forma rápida e prática, promovendo uma comunicação direta entre os moradores e os responsáveis pela manutenção. O software também visa otimizar os processos internos das empresas de saneamento e das prefeituras, proporcionando uma gestão mais eficiente das solicitações e uma resposta mais ágil aos problemas reportados.</p>
+<p align="justify">O projeto tem como objetivo criar uma plataforma digital que permita aos cidadãos reportar problemas de infraestrutura de forma rápida e prática, promovendo uma comunicação direta entre os moradores e os responsáveis pela manutenção. O software também visa otimizar os processos internos das empresas de saneamento e das prefeituras, proporcionando uma gestão mais eficiente das solicitações e uma resposta mais ágil aos problemas reportados.</p>
 
 ## Justificativa
 <p align="justify">A justificativa para o desenvolvimento deste projeto está na necessidade urgente de melhorar a gestão de infraestrutura urbana, considerando o impacto que esses problemas têm na vida dos moradores. A implementação de uma solução tecnológica permitirá uma comunicação mais eficaz, a redução de desperdícios e a melhoria da qualidade de vida das comunidades atendidas.</p>
