@@ -48,15 +48,29 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Cadastrar usuários | ALTA | 
+|RF-002| Realizar login e autenticação   | ALTA |
+|RF-003| Registrar denúncias   | ALTA |
+|RF-004| Enviar imagens   | MÉDIA |
+|RF-005| Exibir mapa interativo   | MÉDIA |
+|RF-006| Filtrar denúncias  | MÉDIA |
+|RF-007| Fornecer status das demandas pelo governo   | ALTA |
+|RF-008| Garantir uma interface intuitiva  | MÉDIA |
+|RF-009| Confirmar denúncia  | MÉDIA |
+
 
 ### Requisitos não funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA | 
-|RNF-002| Deve processar as requisições do usuário em no máximo 3 segundos |  BAIXA | 
+|RNF-002| O sistema deve processar as requisições do usuário em no máximo 3 segundo |  BAIXA | 
+|RNF-003| O sistema deve ser de fácil usabilidade |  BAIXA | 
+|RNF-004| O sistema deve carregar as denúcnias rapidamente |  MÉDIA | 
+|RNF-005| Os dados do usuário devem ser protegidos, especialmente e-mails e senhas |  ALTA | 
+|RNF-006| O sistema deve estar acessível 24/7/2025 |  ALTA | 
+|RNF-007| O sistema deve funcionar nos principais navegadores e dispositivos móveis |  MÉDIA | 
+|RNF-008| O banco de dados deve ser otimizado para suportar grandes quantidades de dados |  ALTA | 
 
 Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
