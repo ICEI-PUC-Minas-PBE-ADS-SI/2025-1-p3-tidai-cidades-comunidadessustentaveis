@@ -69,15 +69,16 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 #### Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 16/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| Alan Lacerda       | Documentação do contexto | 01/02/2024     | 07/02/2024 | ✔️    | 05/02/2024      |
-| André Lucas        | Protótipo   | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| Cristhian Dias        | Casos de uso  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| Victor Jorge       | Documentação de especificações  |    01/01/2024        | 12/02/2005 | ❌    |       |
-| Nathalya Dias      | Protótipo  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Alan Lacerda       | Documentação do contexto | 01/02/2025     | 17/03/2025 | ✔️    | 12/03/2025      |
+| Alan Lacerda       | Documentação da metodologia | 01/02/2025     | 17/03/2025 | ✔️    | 05/02/2024      |
+| André Lucas        | Protótipo   | 03/02/2025     | 17/04/2025 | 📝    |                 |
+| Cristhian Dias        | Casos de uso  | 01/01/2025     | 17/03/2025 | 📝     |                 |
+| Victor Jorge       | Documentação de especificações  |    03/02/2025        | 17/03/2025 | 📝    |       |
+| Nathalya Dias      | Protótipo  |    01/01/2025        | 17/04/2025 | 📝    |       |
 
 #### Sprint 2
 
