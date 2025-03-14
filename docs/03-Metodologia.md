@@ -3,7 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Especificacao.md"> Especificação do projeto</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+<p align="justify">O desenvolvimento do projeto segue a metodologia ágil Scrum, que permite organizar e distribuir as tarefas de forma iterativa e incremental. Essa abordagem facilita a adaptação às mudanças e melhora a colaboração entre os membros da equipe.</p>
+<p align="justify">A equipe realiza reuniões para planejamento e acompanhamento do progresso, garantindo que as entregas sejam feitas dentro do prazo e com qualidade. O gerenciamento das atividades é feito por meio do GitHub Projects, onde são criados quadros de tarefas, sprints e backlog do produto.</p>
+<p align="justify">A comunicação entre os membros é feita por meio de plataformas como Slack e GitHub Issues, permitindo a rápida identificação de problemas e a discussão de melhorias.</p>
 
 ## Relação de ambientes de trabalho
 
