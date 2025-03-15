@@ -5,7 +5,6 @@
 
 <p align="justify">O desenvolvimento do projeto segue a metodologia ágil Scrum, que permite organizar e distribuir as tarefas de forma iterativa e incremental. Essa abordagem facilita a adaptação às mudanças e melhora a colaboração entre os membros da equipe.</p>
 <p align="justify">A equipe realiza reuniões para planejamento e acompanhamento do progresso, garantindo que as entregas sejam feitas dentro do prazo e com qualidade. O gerenciamento das atividades é feito por meio do GitHub Projects, onde são criados quadros de tarefas, sprints e backlog do produto.</p>
-<p align="justify">A comunicação entre os membros é feita por meio de plataformas como Slack e GitHub Issues, permitindo a rápida identificação de problemas e a discussão de melhorias.</p>
 
 ## Relação de ambientes de trabalho
 
@@ -36,15 +35,6 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gestão de tags, merges, commits e branches é realizada. Discuta também como a gestão de issues foi feita.
-
-> **Links úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Planejamento do projeto
 
 ###  Divisão de papéis
@@ -71,8 +61,8 @@ Atualizado em: 16/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| Alan Lacerda       | Documentação do contexto | 01/02/2025     | 17/03/2025 | ✔️    | 12/03/2025      |
-| Alan Lacerda       | Documentação da metodologia | 01/02/2025     | 17/03/2025 | ✔️    | 05/02/2024      |
+| Alan Lacerda       | Documentação do contexto | 08/03/2025     | 17/03/2025 | ✔️    | 11/03/2025      |
+| Alan Lacerda       | Documentação da metodologia | 12/03/2025     | 17/03/2025 | ✔️    | 15/03/2025      |
 | André Lucas        | Protótipo   | 03/02/2025     | 17/04/2025 | 📝    |                 |
 | Cristhian Dias        | Casos de uso  | 01/01/2025     | 17/03/2025 | 📝     |                 |
 | Victor Jorge       | Documentação de especificações  |    03/02/2025        | 17/03/2025 | 📝    |       |
@@ -95,12 +85,6 @@ Legenda:
 - 📝: em execução
 - ⌛: atrasado
 - ❌: não iniciado
-
-
-> **Links úteis**:
-> - [11 passos essenciais para implantar Scrum no seu projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
