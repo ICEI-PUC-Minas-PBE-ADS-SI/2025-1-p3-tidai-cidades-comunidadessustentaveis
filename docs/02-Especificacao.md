@@ -21,19 +21,19 @@
 ## Personas
 
 ## 1 - Pedro Paulo, 47 anos- Pedreiro
-.No caminho do trabalho faz um desfio graças a uma queda de uma arvore
-.ja pediu para que essa arvore seja cortada mas não obeteve resposta
-.esta a procura de algum lugar onde possa relatar isso.
+.No caminho do trabalho faz um desvio graças a uma queda de uma árvore.
+.Já pediu para que a árvore fosse cortada, mas não obteve resposta.
+.Está a procura de algum lugar onde possa relatar isso.
 
 ## 2 - Mariana Medeiros, 20 anos- Estudante 
-.Na volta da faculdade passa por uma rua estremamente escura por falta de postes na rua
-.Ja tentou proucurar algum responsavel para intalação desses postes mas sem suceeso
-.Esta procurando algo simples facil e de forma digital
+.Na volta da faculdade passa por uma rua extremamente escura por falta de postes na rua.
+.Já tentou proucurar algum responsável pela instalação desses postes, mas sem suceeso.
+.Está procurando algo simples fácil e de forma digital para relatar.
 
 ## 3 - Anderson Arantes, 36 anos - Dono de empresa
-.Percebeu um grande almento nas contas de agua por culpa de um vazamento na rua
-.Não sabe a quem recorer para que cessem esse vazamento
-.E regularizar as contas 
+.Percebeu um grande aumento nas contas de água por conta de um vazamento na rua.
+.Não sabe a quem recorrer para que cessem esse vazamento.
+.E realizar a regularização das contas.
 
 ## Histórias de usuários
 
