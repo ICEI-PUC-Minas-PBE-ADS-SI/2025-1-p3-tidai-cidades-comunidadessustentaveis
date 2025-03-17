@@ -20,17 +20,27 @@
 
 ## Personas
 
-## 1 - Pedro Paulo, 47 anos- Pedreiro
+## 1 - João Fernandes, 40 anos - Funcionário Público (Administrador do Sistema)
+Responsável por gerenciar e responder às denúncias feitas pelos cidadãos.
+Precisa de um painel para visualizar, organizar e atualizar o status das denúncias.
+Quer um sistema eficiente que facilite a comunicação com outros órgãos responsáveis.
+
+## 2 - Lucas Almeida, 28 anos - Auxiliar Administrativo
+Ajuda na verificação, categorização e atualização do status das denúncias.
+Auxilia na comunicação com os cidadãos, fornecendo retorno sobre suas solicitações.
+Garante que as denúncias sejam resolvidas de forma organizada dentro do sistema.
+
+## 3 - Pedro Paulo, 47 anos- Pedreiro
 .No caminho do trabalho faz um desvio graças a uma queda de uma árvore.
 .Já pediu para que a árvore fosse cortada, mas não obteve resposta.
 .Está a procura de algum lugar onde possa relatar isso.
 
-## 2 - Mariana Medeiros, 20 anos- Estudante 
+## 4 - Mariana Medeiros, 20 anos- Estudante 
 .Na volta da faculdade passa por uma rua extremamente escura por falta de postes na rua.
 .Já tentou proucurar algum responsável pela instalação desses postes, mas sem suceeso.
 .Está procurando algo simples fácil e de forma digital para relatar.
 
-## 3 - Anderson Arantes, 36 anos - Dono de empresa
+## 5 - Anderson Arantes, 36 anos - Dono de empresa
 .Percebeu um grande aumento nas contas de água por conta de um vazamento na rua.
 .Não sabe a quem recorrer para que cessem esse vazamento.
 .E realizar a regularização das contas.
@@ -41,8 +51,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|João Fernandes      | Gerenciar e responder denúncias    | Garantir que as solicitações sejam tratadas rapidamente |
+|Lucas Almeida       | Auxiliar no gerenciamento das denúncias | Manter o sistema organizado e garantir respostas rápidas |
 |Pedro Paulo         | Registrar denúncias de obstáculos nas vias públicas | Relatar problemas como quedas de árvores para evitar transtornos no trajeto |
 |Mariana Medeiros    | Registrar falta de iluminação pública | Relatar ruas escuras para melhorar a segurança |
 |Anderson Arantes    | Reportar vazamentos de água | Solicitar reparo e evitar desperdício e aumento da conta |
