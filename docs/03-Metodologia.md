@@ -12,7 +12,7 @@
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório do código - fonte | Github         |Controle de versão e armazenamento do código do projeto.              |
 |Documentação do projeto     | Github               | Registra informações sobre o funcionamento do sistema e seu desenvolvimento. |
-|Protótipo do projeto      | Figma              | Utilizado para criar e validar a interface antes da implementação. |
+|Protótipo do projeto      | Canvas            | Utilizado para criar e validar a interface antes da implementação. |
 |Desenvolvimento da interface      | Visual Studio Code                | Utilizado para codificação do sistema em HTML, CSS e JavaScript. |
 |Banco de dados       | MongoDB              | Armazena as informações sobre os problemas de infraestrutura urbana cadastrados pelos usuários. |
 
@@ -43,7 +43,7 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 - _Scrum master_: André Lucas
 - Protótipos: Nathalya Dias
 - Testes: Cristhian Dias
-- Documentação: Alan Lacerda e Victor Jorge
+- Documentação: Alan Lacerda, Cristhian Dias e Victor Jorge
 
 #### Sprint 2
 - _Scrum master_: AlunaY
@@ -53,8 +53,6 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 ###  Quadro de tarefas
 
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme o exemplo abaixo.
-
 #### Sprint 1
 
 Atualizado em: 16/03/2025
@@ -62,11 +60,11 @@ Atualizado em: 16/03/2025
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Alan Lacerda       | Documentação do contexto | 08/03/2025     | 17/03/2025 | ✔️    | 11/03/2025      |
-| Alan Lacerda       | Documentação da metodologia | 12/03/2025     | 17/03/2025 | ✔️    | 15/03/2025      |
-| André Lucas        | Protótipo   | 03/02/2025     | 17/04/2025 | 📝    |                 |
+| Alan Lacerda       | Documentação da metodologia | 12/03/2025     | 17/03/2025 | ✔️    | 16/03/2025      |
+| André Lucas        | Protótipo   | 24/02/2025     | 17/04/2025 | ✔️    |    24/02/2025           | 
 | Cristhian Dias        | Casos de uso  | 01/01/2025     | 17/03/2025 | 📝     |                 |
 | Victor Jorge       | Documentação de especificações  |    03/02/2025        | 17/03/2025 | 📝    |       |
-| Nathalya Dias      | Protótipo  |    01/01/2025        | 17/04/2025 | 📝    |       |
+| Nathalya Dias      | Protótipo  |    24/02/2025        | 17/04/2025 | ✔️    |  24/02/2025     |
 
 #### Sprint 2
 
@@ -89,19 +87,22 @@ Legenda:
 ### Processo
 
 <p align="justify">O processo de desenvolvimento é baseado no Scrum, permitindo uma abordagem iterativa para a construção do sistema. O fluxo de trabalho segue as seguintes etapas:</p>
- 
+
+ - **GitHub (Documentação e Gerenciamento):** Utilizado para versionamento, controle de alterações e colaboração da equipe, garantindo organização e rastreabilidade do projeto.
+ - **Canvas (Interface):** Escolhido para o desenvolvimento da interface devido à sua flexibilidade e capacidade de criar layouts interativos e responsivos, garantindo uma melhor experiência visual e usabilidade.
+ - **VS code (Front-end):** Escolhido por sua leveza, suporte a múltiplas linguagens e integração com Git, facilitando o desenvolvimento e a manutenção do código.
+ - **MongoDB (Banco de dados):** Optamos pelo MongoDB devido à sua flexibilidade e escalabilidade, permitindo o armazenamento eficiente de dados em formato JSON.
 
 ### Ferramentas
 
-Liste todas as ferramentas que foram empregadas no projeto, justificando a escolha delas, sempre que possível.
 
-Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | Ambiente                            | Plataforma                         | Link de acesso                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de interface                | Figma                              | http://....                            |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | Vercel                             | http://....                            |
+| Repositório do back-end         | GitHub                             |https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/main/src/back                          |
+| Repositório do front-end            | GitHub                           | https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/main/src/front                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/mai                        |
+| Projeto de interface                | Canvas                             | http://....                            |
+| Gerenciamento do projeto            | GitHub Projects                    | https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/mai                         |
+| Hospedagem                          | A defenir                           | http://....                            |
  
