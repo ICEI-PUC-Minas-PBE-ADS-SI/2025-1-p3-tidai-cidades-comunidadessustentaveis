@@ -2,35 +2,35 @@
 
 ## Definição do problema
 
-O principal problema abordado por este projeto é a falha na comunicação entre os moradores urbanos e os responsáveis pela manutenção da infraestrutura. Essa deficiência resulta em atrasos, ineficiências e até mesmo na ausência de ação na resolução de problemas comuns, tais como vazamentos de água, ruas esburacadas, falhas na iluminação pública e problemas de saneamento básico.
+<p align="justify">O principal problema abordado por este projeto é a falha na comunicação entre os moradores urbanos e os responsáveis pela manutenção da infraestrutura. Essa deficiência resulta em atrasos, ineficiências e até mesmo na ausência de ação na resolução de problemas comuns, tais como vazamentos de água, ruas esburacadas, falhas na iluminação pública e problemas de saneamento básico.</p>
 
 ## Solução
 
-A solução proposta é o desenvolvimento de um aplicativo que permita aos cidadãos reportar qualquer tipo de problema relacionado à infraestrutura urbana. Dessa forma, busca-se evitar que essas questões se prolonguem, minimizando impactos negativos na convivência urbana e garantindo uma resposta mais ágil e eficiente por parte das autoridades responsáveis.
+<p align="justify">A solução proposta é o desenvolvimento de um aplicativo que permita aos cidadãos reportar qualquer tipo de problema relacionado à infraestrutura urbana. Dessa forma, busca-se evitar que essas questões se prolonguem, minimizando impactos negativos na convivência urbana e garantindo uma resposta mais ágil e eficiente por parte das autoridades responsáveis.</p>
 
 ## Ferramentas e Tecnicas
 
- * Diagrama de Personas * : Representação dos perfis dos usuários-alvo da plataforma.
+- **Diagrama de Personas:** Representação dos perfis dos usuários-alvo da plataforma.
 
-* Histórias de Usuários *: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
+- **Histórias de Usuários:** Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
 
-* Requisitos Funcionais e Não Funcionais *: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
+- **Requisitos Funcionais e Não Funcionais:** Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
 
- * Diagrama de Caso de Uso *: Modelagem dos principais fluxos de interação dos usuários com o sistema.
+- **Diagrama de Caso de Uso:** Modelagem dos principais fluxos de interação dos usuários com o sistema.
 
 ## Personas
 
-## 1 Pedro Paulo, 47 anos- Pedreiro
+## 1 - Pedro Paulo, 47 anos- Pedreiro
 .No caminho do trabalho faz um desfio graças a uma queda de uma arvore
 .ja pediu para que essa arvore seja cortada mas não obeteve resposta
 .esta a procura de algum lugar onde possa relatar isso.
 
-## 2 Mariana Medeiros, 20 anos- Estudante 
+## 2 - Mariana Medeiros, 20 anos- Estudante 
 .Na volta da faculdade passa por uma rua estremamente escura por falta de postes na rua
 .Ja tentou proucurar algum responsavel para intalação desses postes mas sem suceeso
 .Esta procurando algo simples facil e de forma digital
 
-## 3 Anderson Arantes, 36 anos - Dono de empresa
+## 3 - Anderson Arantes, 36 anos - Dono de empresa
 .Percebeu um grande almento nas contas de agua por culpa de um vazamento na rua
 .Não sabe a quem recorer para que cessem esse vazamento
 .E regularizar as contas 
@@ -104,8 +104,6 @@ Lembre-se de que cada requisito deve corresponder a uma e somente uma caracterí
 > - [Entenda o que são requisitos de software, a diferença entre requisito funcional e não funcional, e como identificar e documentar cada um deles](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Restrições
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
 O projeto está restrito aos itens apresentados na tabela a seguir.
 
