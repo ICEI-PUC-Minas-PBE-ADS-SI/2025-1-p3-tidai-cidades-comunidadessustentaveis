@@ -43,6 +43,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Pedro Paulo         | Registrar denúncias de obstáculos nas vias públicas | Relatar problemas como quedas de árvores para evitar transtornos no trajeto |
+|Mariana Medeiros    | Registrar falta de iluminação pública | Relatar ruas escuras para melhorar a segurança |
+|Anderson Arantes    | Reportar vazamentos de água | Solicitar reparo e evitar desperdício e aumento da conta |
 
 ## Requisitos
 
