@@ -1,10 +1,19 @@
 # Especificação do projeto
 
-<span style="color:red">Pré-requisitos: <a href="01-Contexto.md"> Documentação de contexto</a></span>
+#Definição do problema
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O principal problema abordado por este projeto é a falha na comunicação entre os moradores urbanos e os responsáveis pela manutenção da infraestrutura. Essa deficiência resulta em atrasos, ineficiências e até mesmo na ausência de ação na resolução de problemas comuns, tais como vazamentos de água, ruas esburacadas, falhas na iluminação pública e problemas de saneamento básico.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
+#Solução
+
+A solução proposta é o desenvolvimento de um aplicativo que permita aos cidadãos reportar qualquer tipo de problema relacionado à infraestrutura urbana. Dessa forma, busca-se evitar que essas questões se prolonguem, minimizando impactos negativos na convivência urbana e garantindo uma resposta mais ágil e eficiente por parte das autoridades responsáveis.
+
+#Ferramentas e Tecnicas
+
+Diagrama de Personas: Representação dos perfis dos usuários-alvo da plataforma.
+Histórias de Usuários: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
+Requisitos Funcionais e Não Funcionais: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
+Diagrama de Caso de Uso: Modelagem dos principais fluxos de interação dos usuários com o sistema.
 
 ## Personas
 
