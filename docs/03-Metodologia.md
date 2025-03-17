@@ -55,16 +55,16 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 #### Sprint 1
 
-Atualizado em: 16/03/2025
+Atualizado em: 17/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Alan Lacerda       | Documentação do contexto | 08/03/2025     | 17/03/2025 | ✔️    | 11/03/2025      |
-| Alan Lacerda       | Documentação da metodologia | 12/03/2025     | 17/03/2025 | ✔️    | 16/03/2025      |
-| André Lucas        | Protótipo   | 24/02/2025     | 17/04/2025 | ✔️    |    24/02/2025           | 
-| Cristhian Dias        | Casos de uso  | 01/01/2025     | 17/03/2025 | 📝     |                 |
-| Victor Jorge       | Documentação de especificações  |    03/02/2025        | 17/03/2025 | 📝    |       |
+| Alan Lacerda       | Documentação da metodologia | 12/03/2025     | 17/03/2025 | ✔️    | 16/03/2025      | 
+| Cristhian Dias        | Documentação de especificações  | 10/03/2025     | 17/03/2025 | ✔️     |         17/03/2025        |
+| Victor Jorge       | Documentação de especificações  |    10/03/2025        | 17/03/2025 | ✔️    |     17/03/2025  |
 | Nathalya Dias      | Protótipo  |    24/02/2025        | 17/04/2025 | ✔️    |  24/02/2025     |
+| André Lucas        | Protótipo   | 24/02/2025     | 17/04/2025 | ✔️    |    24/02/2025           | 
 
 #### Sprint 2
 
