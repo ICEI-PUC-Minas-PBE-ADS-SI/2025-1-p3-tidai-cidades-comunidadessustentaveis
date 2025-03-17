@@ -1,35 +1,36 @@
-## Especificação do projeto
+# Especificação do projeto
 
-# Definição do problema
+## Definição do problema
 
 O principal problema abordado por este projeto é a falha na comunicação entre os moradores urbanos e os responsáveis pela manutenção da infraestrutura. Essa deficiência resulta em atrasos, ineficiências e até mesmo na ausência de ação na resolução de problemas comuns, tais como vazamentos de água, ruas esburacadas, falhas na iluminação pública e problemas de saneamento básico.
 
-# Solução
+## Solução
 
 A solução proposta é o desenvolvimento de um aplicativo que permita aos cidadãos reportar qualquer tipo de problema relacionado à infraestrutura urbana. Dessa forma, busca-se evitar que essas questões se prolonguem, minimizando impactos negativos na convivência urbana e garantindo uma resposta mais ágil e eficiente por parte das autoridades responsáveis.
 
-# Ferramentas e Tecnicas
+## Ferramentas e Tecnicas
 
-*Diagrama de Personas*: Representação dos perfis dos usuários-alvo da plataforma.
-*Histórias de Usuários*: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
-*Requisitos Funcionais e Não Funcionais*: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
-*Diagrama de Caso de Uso*: Modelagem dos principais fluxos de interação dos usuários com o sistema.
+## Diagrama de Personas: Representação dos perfis dos usuários-alvo da plataforma.
+## Histórias de Usuários: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
+## Requisitos Funcionais e Não Funcionais: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
+## Diagrama de Caso de Uso: Modelagem dos principais fluxos de interação dos usuários com o sistema.
 
 ## Personas
 
-Exemplo: _Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente por meio de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros._
+## 1 Pedro Paulo, 47 anos- Pedreiro
+.No caminho do trabalho faz um desfio graças a uma queda de uma arvore
+.ja pediu para que essa arvore seja cortada mas não obeteve resposta
+.esta a procura de algum lugar onde possa relatar isso.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+## 2 Mariana Medeiros, 20 anos- Estudante 
+.Na volta da faculdade passa por uma rua estremamente escura por falta de postes na rua
+.Ja tentou proucurar algum responsavel para intalação desses postes mas sem suceeso
+.Esta procurando algo simples facil e de forma digital
 
-> **Links úteis**:
-> - [Rock content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+## 3 Anderson Arantes, 36 anos - Dono de empresa
+.Percebeu um grande almento nas contas de agua por culpa de um vazamento na rua
+.Não sabe a quem recorer para que cessem esse vazamento
+.E regularizar as contas 
 
 ## Histórias de usuários
 
