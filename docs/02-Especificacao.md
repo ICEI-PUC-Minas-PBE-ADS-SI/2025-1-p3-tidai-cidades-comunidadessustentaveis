@@ -10,10 +10,13 @@ A solução proposta é o desenvolvimento de um aplicativo que permita aos cidad
 
 ## Ferramentas e Tecnicas
 
-## Diagrama de Personas: Representação dos perfis dos usuários-alvo da plataforma.
-## Histórias de Usuários: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
-## Requisitos Funcionais e Não Funcionais: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
-## Diagrama de Caso de Uso: Modelagem dos principais fluxos de interação dos usuários com o sistema.
+ * Diagrama de Personas * : Representação dos perfis dos usuários-alvo da plataforma.
+
+* Histórias de Usuários *: Levantamento das necessidades e expectativas dos usuários com base em suas rotinas e desafios.
+
+* Requisitos Funcionais e Não Funcionais *: Definição detalhada das funcionalidades essenciais e dos aspectos técnicos que a solução deve atender.
+
+ * Diagrama de Caso de Uso *: Modelagem dos principais fluxos de interação dos usuários com o sistema.
 
 ## Personas
 
