@@ -30,20 +30,14 @@ Ajuda na verificação, categorização e atualização do status das denúncias
 Auxilia na comunicação com os cidadãos, fornecendo retorno sobre suas solicitações.
 Garante que as denúncias sejam resolvidas de forma organizada dentro do sistema.
 
-## 3 - Pedro Paulo, 47 anos- Pedreiro
-.No caminho do trabalho faz um desvio graças a uma queda de uma árvore.
-.Já pediu para que a árvore fosse cortada, mas não obteve resposta.
-.Está a procura de algum lugar onde possa relatar isso.
+## 3 - Pedro Paulo, 47 anos - Pedreiro
+Pedro Paulo enfrenta dificuldades no trajeto para o trabalho devido a um desvio causado pela queda de uma árvore. Ele já solicitou a remoção da árvore, porém não obteve resposta das autoridades responsáveis. Diante da falta de retorno, ele busca um meio adequado para registrar sua reclamação e obter uma solução.  
 
-## 4 - Mariana Medeiros, 20 anos- Estudante 
-.Na volta da faculdade passa por uma rua extremamente escura por falta de postes na rua.
-.Já tentou proucurar algum responsável pela instalação desses postes, mas sem suceeso.
-.Está procurando algo simples fácil e de forma digital para relatar.
+## 4 - Mariana Medeiros, 20 anos - Estudante
+Mariana Medeiros retorna da faculdade por uma rua com iluminação precária devido à ausência de postes de luz. Ela já tentou identificar o órgão responsável pela instalação dos postes, mas não obteve sucesso. Em razão disso, procura uma maneira digital, simples e acessível para relatar o problema e contribuir para a melhoria da segurança na região.  
 
-## 5 - Anderson Arantes, 36 anos - Dono de empresa
-.Percebeu um grande aumento nas contas de água por conta de um vazamento na rua.
-.Não sabe a quem recorrer para que cessem esse vazamento.
-.E realizar a regularização das contas.
+## 5 - Anderson Arantes, 36 anos - Empresário
+Anderson Arantes observou um aumento expressivo nas contas de água devido a um vazamento na rua próximo ao seu estabelecimento. No entanto, ele não sabe a quem recorrer para solicitar o reparo do vazamento e a regularização das tarifas afetadas. Diante dessa situação, busca uma solução eficiente para relatar o problema e minimizar os impactos financeiros causados.
 
 ## Histórias de usuários
 
