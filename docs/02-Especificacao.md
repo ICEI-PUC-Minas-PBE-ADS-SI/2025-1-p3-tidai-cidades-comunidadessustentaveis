@@ -97,52 +97,5 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos. Ele utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. O diagrama contempla a fronteira do sistema e o detalhamento dos requisitos funcionais, com a indicação dos atores, casos de uso e seus relacionamentos.
 
-> **Link do diagrama**: https://postimg.cc/PNzxvmgF
-
-```mermaid
-graph TD;
-    subgraph "Casos de uso"
-        FazerDenuncia["Fazer denúncia"]
-        AcompanharDenuncia["Acompanhar denúncia"]
-        ReceberNotificacao["Receber notificação"]
-        VisualizarDenuncias["Visualizar denúncias"]
-        AtualizarStatus["Atualizar status"]
-        CadastrarUsuario["Cadastrar usuário"]
-        Login["Login"]
-    end
-
-    subgraph "Descrição"
-        FazerDenunciaDesc["O usuário relata um problema (Ex: árvore caída)"]
-        AcompanharDenunciaDesc["O usuário verifica o status da denúncia (Ex: Em análise, Em andamento e resolvida)"]
-        ReceberNotificacaoDesc["O usuário recebe notificações sobre a denúncia"]
-        VisualizarDenunciasDesc["A prefeitura visualiza todas as denúncias feitas"]
-        AtualizarStatusDesc["A prefeitura atualiza o status da denúncia"]
-        CadastrarUsuarioDesc["O usuário cria uma conta no sistema"]
-        LoginDesc["O usuário acessa o sistema com suas credenciais"]
-    end
-
-    FazerDenuncia --> FazerDenunciaDesc
-    AcompanharDenuncia --> AcompanharDenunciaDesc
-    ReceberNotificacao --> ReceberNotificacaoDesc
-    VisualizarDenuncias --> VisualizarDenunciasDesc
-    AtualizarStatus --> AtualizarStatusDesc
-    CadastrarUsuario --> CadastrarUsuarioDesc
-    Login --> LoginDesc
-
-    subgraph "Ator: Usuário"
-        Usuario
-    end
-
-    Usuario --> FazerDenuncia
-    Usuario --> AcompanharDenuncia
-    Usuario --> ReceberNotificacao
-    Usuario --> CadastrarUsuario
-    Usuario --> Login
-
-    subgraph "Ator: Prefeitura"
-        Prefeitura
-    end
-
-    Prefeitura --> VisualizarDenuncias
-    Prefeitura --> AtualizarStatus
+![image]()
 
