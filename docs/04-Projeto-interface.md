@@ -30,7 +30,7 @@ Fluxo de usuário (user flow) é uma técnica que permite ao desenvolvedor mapea
 
 ### Fluxo de Login
 
-![image](images/Fluxo_Cadastro.png)
+![image](images/Fluxo_Login.png)
 
 
 ## Wireframes
