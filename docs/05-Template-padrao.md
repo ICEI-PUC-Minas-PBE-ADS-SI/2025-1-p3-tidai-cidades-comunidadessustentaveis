@@ -23,3 +23,5 @@ Nesse tópico irá abordar todo o processo de construção do template que será
 <p align="justify">A cor verde é frequentemente associada a conceitos de crescimento, equilíbrio, renovação e compromisso ambiental. Em sites governamentais e projetos de cidades inteligentes, tons de verde reforçam a sensação de transparência, cuidado com o meio ambiente e proximidade com a população. Além disso, variações de verde mais escuro trazem seriedade e solidez institucional, enquanto os tons mais claros geram acolhimento e acessibilidade, equilibrando modernidade e tradição.</p>
 
 <p align="justify">Essa paleta foi estrategicamente adotada para reforçar os valores de cidadania ativa, colaboração pública e construção de cidades mais sustentáveis, alinhando a identidade visual ao propósito da plataforma.</p>
+
+![image](images/Paleta.png)
