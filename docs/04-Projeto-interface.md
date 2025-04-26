@@ -20,15 +20,10 @@ Fluxo de usuário (user flow) é uma técnica que permite ao desenvolvedor mapea
 
 ### Diagrama de fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo, muitas vezes sem a necessidade de desenhar o design das telas da interface. Isso permite que o design das interações seja bem planejado e tenha impacto na qualidade do design do wireframe interativo que será desenvolvido logo em seguida.
+<p align="justify">Para garantir uma experiência de navegação clara, intuitiva e eficiente, foram desenvolvidos fluxogramas representando o caminho percorrido pelo usuário nas principais funcionalidades da aplicação: login, cadastro e registro de denúncia.</p>
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem, internamente, a indicação dos principais elementos de interface — tais como menus e acessos — e funcionalidades, como editar, pesquisar, filtrar e configurar, além da conexão entre esses boxes a partir do processo de interação.
+<p align="justify">Esses fluxos auxiliam na visualização do comportamento do sistema, demonstrando como as interações são organizadas e de que forma o usuário é conduzido de maneira lógica e objetiva em cada etapa. A estrutura prioriza a simplicidade e a rapidez no acesso às funções essenciais, reforçando o compromisso com a usabilidade e a inclusão digital.</p>
 
-![Exemplo de diagrama de fluxo](images/diagrama_fluxo.jpg)
-
-> **Links úteis**:
-> - [Como criar um diagrama de fluxo de usuário](https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram)
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
