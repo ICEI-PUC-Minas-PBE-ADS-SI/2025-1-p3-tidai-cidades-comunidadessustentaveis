@@ -16,3 +16,10 @@ Nesse tópico irá abordar todo o processo de construção do template que será
 <p align="justify">Durante o processo de criação, foram pesquisadas referências de aplicativos de mobilidade urbana, plataformas governamentais de serviço ao cidadão e projetos de cidades sustentáveis. Essa combinação garantiu uma base sólida para a construção de uma identidade visual que não apenas se destaca, mas também gera conexão emocional com os usuários, estimulando a participação ativa na melhoria contínua do ambiente urbano.</p>
 
 ![image](images/Identidade_Visual.png)
+
+## Paleta
+<p align="justify">Para a construção visual da plataforma, foi selecionada uma paleta de tons verdes (#254031, #025918, #014011, #02730A, #09A603), cuidadosamente escolhida para transmitir confiança, sustentabilidade e responsabilidade social — princípios essenciais para plataformas de gestão urbana e cidadania.</p>
+
+<p align="justify">A cor verde é frequentemente associada a conceitos de crescimento, equilíbrio, renovação e compromisso ambiental. Em sites governamentais e projetos de cidades inteligentes, tons de verde reforçam a sensação de transparência, cuidado com o meio ambiente e proximidade com a população. Além disso, variações de verde mais escuro trazem seriedade e solidez institucional, enquanto os tons mais claros geram acolhimento e acessibilidade, equilibrando modernidade e tradição.</p>
+
+<p align="justify">Essa paleta foi estrategicamente adotada para reforçar os valores de cidadania ativa, colaboração pública e construção de cidades mais sustentáveis, alinhando a identidade visual ao propósito da plataforma.</p>
