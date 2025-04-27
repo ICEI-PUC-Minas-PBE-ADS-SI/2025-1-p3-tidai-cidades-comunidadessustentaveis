@@ -5,7 +5,7 @@
 Nesse tópico irá abordar todo o processo de construção do template que será usado no site, incuindo cores, tipografia, logo, entre outros.
 
 ## Identidade visual
-<p align="justify">A identidade visual do UrbanReportPortal é um elemento essencial na construção do projeto, pois comunica os valores de inovação, cidadania ativa e sustentabilidade que a plataforma propõe. Mais do que estética, a identidade visual visa transmitir confiança, modernidade e o compromisso com a transformação positiva da infraestrutura urbana.</p>
+<p align="justify">A identidade visual do site é um elemento essencial na construção do projeto, pois comunica os valores de inovação, cidadania ativa e sustentabilidade que a plataforma propõe. Mais do que estética, a identidade visual visa transmitir confiança, modernidade e o compromisso com a transformação positiva da infraestrutura urbana.</p>
 
 <p align="justify">O desenvolvimento da identidade visual iniciou-se com uma pesquisa focada em referências de cidades inteligentes, aplicativos de participação cidadã e plataformas de gestão urbana. Buscou-se traduzir esses conceitos em elementos gráficos que equilibrassem simplicidade, eficiência e apelo visual, conectando o usuário à ideia de uma cidade mais humana e sustentável.</p>
 
