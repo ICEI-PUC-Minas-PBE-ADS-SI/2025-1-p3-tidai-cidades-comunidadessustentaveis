@@ -54,4 +54,30 @@ São protótipos usados no design de interface para sugerir a estrutura de um si
 
 Visão geral da interação do usuário por meio das telas do sistema. 
 
-> Apresente as principais interfaces da plataforma em sua versão final.
+### Tela principal do sistema
+
+<p align="justify">Tela do portal de denúncias onde o usuário vai entrar após </p>
+
+> Insira aqui a tela principal do sistema
+
+
+###  Telas do processo 1
+
+Descrição da tela relativa à atividade 1 do processo 1.
+
+> Insira aqui a tela da atividade 1
+
+Descrição da tela relativa à atividade 2 do processo 1.
+
+> Insira aqui a tela da atividade 2
+
+
+### Telas do processo 2
+
+Descrição da tela relativa à atividade 1 do processo 2.
+
+> Insira aqui a tela da atividade 1
+
+Descrição da tela relativa à atividade 2 do processo 2.
+
+> Insira aqui a tela da atividade 2
