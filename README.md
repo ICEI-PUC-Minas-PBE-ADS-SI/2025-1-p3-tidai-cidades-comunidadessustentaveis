@@ -6,7 +6,7 @@
 
 `3º semestre/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+<p align="justify">O projeto propõe o desenvolvimento de um aplicativo para facilitar a comunicação entre os cidadãos e os órgãos responsáveis pela manutenção da infraestrutura urbana. O principal objetivo é permitir que moradores possam registrar denúncias de problemas como vazamentos de água, quedas de árvores, falhas de iluminação pública e questões de saneamento, de forma rápida e acessível. A iniciativa busca minimizar atrasos na resolução dessas situações e melhorar a qualidade de vida nas cidades, oferecendo uma plataforma eficiente, responsiva e de fácil utilização.</p>
 
 ## Integrantes
 
