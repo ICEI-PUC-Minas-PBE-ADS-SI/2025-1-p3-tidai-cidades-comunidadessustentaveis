@@ -10,8 +10,30 @@
 
  <p align="justify">A interação do usuário foi projetada para ser intuitiva e responsiva, seguindo as necessidades identificadas nas Personas e Histórias de Usuário. As telas são organizadas de forma a permitir que o usuário cadastre uma denúncia de maneira rápida e eficaz, acompanhe o status da sua solicitação e, quando aplicável, receba atualizações de resolução.</p>
 
+- **Tela de Login e Cadastro:** Onde o usuário cria uma conta ou acessa o sistema para registrar e acompanhar denúncias.
+- **Tela Registrar Denúncia:** Formulário simples e objetivo para descrever o problema, enviar imagens e indicar a localização no mapa.
+- **Tela de Acompanhamento:** Permite ao cidadão consultar o status da sua denúncia em tempo real.
+
+## Como a Interface Atende aos Requisitos
+
+ <p align="justify">A construção das telas foi diretamente orientada pelos requisitos levantados na especificação do projeto:</p>
  
- ## User flow
+### Requisitos Funcionais
+- Cadastro e Autenticação (RF-001 e RF-002) são atendidos na tela de login/cadastro.
+- Registro de Denúncia (RF-003) e Envio de Imagens (RF-004) são contemplados no formulário de denúncia.
+- Status das Demandas (RF-007) é exibido tanto para o administrador quanto para o usuário comum, garantindo transparência.
+- Interface Intuitiva (RF-008) foi prioridade no design das telas, utilizando ícones claros, textos objetivos e navegação simplificada.
+- Confirmação da Denúncia (RF-009) ocorre após o envio do formulário.
+
+### Requisitos Não Funcionais
+- Proteção de Dados (RNF-005) foi considerada, garantindo segurança em login e cadastro.
+- Disponibilidade (RNF-006) e Suporte a Diversos Navegadores (RNF-007) também foram levados em conta na escolha das tecnologias.
+- A otimização do banco de dados (RNF-008) é fundamental para o carregamento rápido das denúncias, especialmente na tela de mapa.
+
+<p align="justify">As interfaces foram planejadas para atender de forma eficiente os diferentes perfis de usuários identificados nas personas. O fluxo de navegação é objetivo e prioriza a rápida comunicação de problemas urbanos, oferecendo uma solução digital de fácil acesso para a população.</p>
+
+
+## User flow
 
 Fluxo de usuário (user flow) é uma técnica que permite ao desenvolvedor mapear todo o fluxo de navegação do usuário na aplicação. Essa técnica serve para alinhar os caminhos e as possíveis ações que o usuário pode realizar junto com os membros da equipe.
 
