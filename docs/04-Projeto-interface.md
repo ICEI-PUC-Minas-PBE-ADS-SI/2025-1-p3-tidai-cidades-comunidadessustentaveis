@@ -56,28 +56,34 @@ Visão geral da interação do usuário por meio das telas do sistema.
 
 ### Tela principal do sistema
 
-<p align="justify">Tela do portal de denúncias onde o usuário vai entrar após </p>
+<p align="justify"> imagem apresenta a tela principal do sistema, voltado para a promoção de cidades e comunidades sustentáveis, em alinhamento com o Objetivo 11 da Agenda 2030 da ONU. No centro, há um banner destacando os "Objetivos de Desenvolvimento Sustentável", com ênfase no tema de urbanização sustentável. Abaixo, o usuário encontra duas opções de ação: "Verificar status da denúncia" e "Registrar denúncia". No topo da página, há um menu de navegação com os botões "Início" e "Sobre", além de ícones de acesso à conta e logout. O layout utiliza uma paleta de cores em tons de verde e cinza, transmitindo modernidade e compromisso ambiental. </p>
 
-> Insira aqui a tela principal do sistema
-
-
-###  Telas do processo 1
-
-Descrição da tela relativa à atividade 1 do processo 1.
-
-> Insira aqui a tela da atividade 1
-
-Descrição da tela relativa à atividade 2 do processo 1.
-
-> Insira aqui a tela da atividade 2
+![image](images/Tela_Principal.png)
 
 
-### Telas do processo 2
+###  Tela de login
 
-Descrição da tela relativa à atividade 1 do processo 2.
+<p align="justify">A imagem apresenta a página de login do sistema. À esquerda, destaca-se uma fotografia urbana com o título "Cidades e Comunidades Sustentáveis" em letras grandes e brancas, remetendo ao conceito de desenvolvimento sustentável. À direita, em um fundo claro, encontra-se o logo da plataforma "ECO" e a mensagem motivacional "Seu acesso para mudar o presente e construir o futuro!". Abaixo, são disponibilizados campos para inserção de E-mail e Senha, seguidos de um botão verde "Login". Há também a opção "Criar uma conta", destinada a novos usuários.</p>
 
-> Insira aqui a tela da atividade 1
+![image](images/Tela_Login.png)
 
-Descrição da tela relativa à atividade 2 do processo 2.
 
-> Insira aqui a tela da atividade 2
+### Tela de cadastro
+
+<p align="justify">A imagem exibe a página de cadastro do sistema. No topo, há o título "Crie seu cadastro", seguido de um formulário estruturado com campos obrigatórios para inserção de Nome, Sobrenome, CPF, Telefone, E-mail e Senha. Abaixo do formulário, encontra-se o botão verde "Cadastre-se", que permite a submissão dos dados preenchidos. Há também uma caixa de seleção para o usuário concordar com os Termos de Uso e a Política de Privacidade antes de concluir o cadastro.</p>
+
+![image](images/Tela_Cadastro.png)
+
+
+### Tela registrar denúncias
+
+<p align="justify">A imagem apresenta a página de registro de denúncias do sistema. No topo, encontra-se o título "Página de Denúncia". O formulário disponibiliza campos obrigatórios para preenchimento da Rua, Bairro, Tipo de denúncia e descrição detalhada do problema. Abaixo, há a opção de anexar uma foto, permitindo incluir uma descrição e selecionar um arquivo para envio. Os botões "Anexar" e "Cancelar" controlam o envio do anexo, enquanto o botão "Registrar denúncia" finaliza o processo.</p>
+
+![image](images/Tela_Denuncia.png)
+
+
+### Tela "Sobre"
+
+<p align="justify">A imagem apresenta a seção "Sobre" do sistema. No espaço principal, encontra-se um texto descritivo (atualmente utilizado como conteúdo provisório) que será futuramente substituído pelo objetivo do projeto. Abaixo do texto, há um campo de "Dúvidas?", com informações de contato destacadas em botões verdes: um site de suporte (CIDADESSUSTENTÁVEIS.COM.BR) e um número de telefone para atendimento via SAC. </p>
+
+![image](images/Tela_Sobre.png)
