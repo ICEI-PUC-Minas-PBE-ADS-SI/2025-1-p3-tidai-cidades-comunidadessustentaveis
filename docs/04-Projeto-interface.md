@@ -63,7 +63,8 @@ Fluxo de usuário (user flow) é uma técnica que permite ao desenvolvedor mapea
 ![image](images/Fluxo_Denuncia.png)
 
 ## Wireframes
-<p align="justify">Esboço visual que define a organização dos elementos fundamentais da interface do site, servindo como guia para o layout e a navegação.</p>
+
+<p align="justify">Layout simplificado que organiza os principais elementos do site, facilitando a visualização da navegação e da experiência do usuário.</p>
 
 ![Página Principal](images/Principal.png)
 ![Página de Login](images/Login.png)
