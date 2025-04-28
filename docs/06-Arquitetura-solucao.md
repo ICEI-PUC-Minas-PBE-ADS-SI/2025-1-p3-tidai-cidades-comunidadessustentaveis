@@ -47,42 +47,57 @@ Insira aqui o script de criação das tabelas do banco de dados.
 Veja um exemplo:
 
 ```sql
--- Criação da tabela Medico
-CREATE TABLE Medico (
-    MedCodigo INTEGER PRIMARY KEY,
-    MedNome VARCHAR(100)
+-- Criação da tabela Admin
+CREATE TABLE Admin (
+    AdmCodigo INTEGER PRIMARY KEY,
+    AdmNome VARCHAR(100),
+    AdmSenha VARCHAR(100),
+    FOREIGN KEY (UseCodigo) REFERENCES Usuario(UseCodigo),
+    FOREIGN KEY (DenCodigo) REFERENCES Denuncia(DenCodigo),
+    FOREIGN KEY (EmpCodigo) REFERENCES Empresas(EmpCodigo)
+    
 );
 
--- Criação da tabela Paciente
-CREATE TABLE Paciente (
-    PacCodigo INTEGER PRIMARY KEY,
-    PacNome VARCHAR(100)
+-- Criação da tabela Usuário
+CREATE TABLE Usuario (
+    UseCodigo INTEGER PRIMARY KEY,
+    UseNome VARCHAR(100),
+    UseSobrenome VARCHAR(100),
+    UseCPF VARCHAR(100),
+    UseTel VARCHAR(100),
+    UseEmail VARCHAR(100),
+    UseSenha VARCHAR(100)
 );
 
--- Criação da tabela Consulta
-CREATE TABLE Consulta (
-    ConCodigo INTEGER PRIMARY KEY,
-    MedCodigo INTEGER,
-    PacCodigo INTEGER,
+-- Criação da tabela Denúncia
+CREATE TABLE Denuncia (
+    DenCodigo INTEGER PRIMARY KEY,
+    UseCodigo INTEGER,
     Data DATE,
-    FOREIGN KEY (MedCodigo) REFERENCES Medico(MedCodigo),
-    FOREIGN KEY (PacCodigo) REFERENCES Paciente(PacCodigo)
+    Denuncia VARCHAR(100),
+    Rua VARCHAR(100),
+    Bairro VARCHAR(100),
+    DescProblema VARCHAR(100),
+    AnxImagem VARCHAR(255), //Caminho da imagem
+    StausDenuncia VARCHAR(100),
+    FOREIGN KEY (UseCodigo) REFERENCES Usuario(UseCodigo)
 );
 
--- Criação da tabela Medicamento
-CREATE TABLE Medicamento (
-    MdcCodigo INTEGER PRIMARY KEY,
-    MdcNome VARCHAR(100)
+-- Criação da tabela Status
+CREATE TABLE StatusDenuncia (
+    StatusDenCodigo INTEGER PRIMARY KEY,
+    DenCodigo INTEGER,
+    StausDenuncia VARCHAR(100),
+    FOREIGN KEY (DenCodigo) REFERENCES Denuncia(DenCodigo)
 );
 
--- Criação da tabela Prescricao
-CREATE TABLE Prescricao (
-    ConCodigo INTEGER,
-    MdcCodigo INTEGER,
-    Posologia VARCHAR(200),
-    PRIMARY KEY (ConCodigo, MdcCodigo),
-    FOREIGN KEY (ConCodigo) REFERENCES Consulta(ConCodigo),
-    FOREIGN KEY (MdcCodigo) REFERENCES Medicamento(MdcCodigo)
+
+-- Criação da tabela Empresas responsáveis
+CREATE TABLE Empresas (
+    EmpCodigo INTEGER PRIMARY KEY,
+    EmpNome VARCHAR(100),
+    EmpTipo VARCHAR(100), //Água, luz, etc
+    FOREIGN KEY (Denuncia) REFERENCES Denuncia(Denuncia)
 );
 ```
 Esse script deverá ser incluído em um arquivo .sql na pasta [de scripts SQL](../src/db).
@@ -97,9 +112,9 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
-| Front-end      | HTML + CSS + JS + React |
-| Back-end       | Node.js         |
-| SGBD           | MySQL           |
+| Front-end      | HTML + CSS + JS |
+| Back-end       | C#        |
+| SGBD           | MongoDB           |
 | Deploy         | Vercel          |
 
 
