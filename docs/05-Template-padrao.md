@@ -42,3 +42,13 @@ Nesse tópico irá abordar todo o processo de construção do template que será
 #09A603 — Bright Green: adiciona frescor e esperança, transmitindo otimismo e incentivo à participação popular.
 
 <p align="justify">A predominância dos tons de verde conecta diretamente com temas de responsabilidade social e governança, além de favorecer a associação com práticas sustentáveis e urbanismo consciente.</p>
+
+## Iconografia
+
+<p align="justify">A escolha dos ícones também segue o princípio da simplicidade, clareza e rápida associação. Foram selecionados ícones de traço limpo e de fácil compreensão, com foco na representação visual de ações como denúncia, localização de problemas urbanos, sustentabilidade e cidadania. As imagens são majoritariamente monocromáticas em tons de verde escuro ou neutro, para manter a unidade visual e reforçar a seriedade da proposta.</p>
+
+A utilização estratégica da iconografia tem como objetivo:
+- Tornar a navegação mais intuitiva;
+- Facilitar a identificação de funcionalidades;
+- Reforçar a mensagem de cidadania ativa e sustentabilidade;
+- Proporcionar uma estética moderna e acessível.
