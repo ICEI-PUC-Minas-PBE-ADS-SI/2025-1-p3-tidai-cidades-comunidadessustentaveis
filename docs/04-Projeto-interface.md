@@ -37,7 +37,7 @@
 
 Representa a sequência de interações do usuário com o sistema, desde o login até o registro e acompanhamento de denúncias. O fluxo foi projetado para tornar a navegação prática e direta, reduzindo o tempo para a realização de cada tarefa e melhorando a experiência do usuário.
 
-![User Flow](images/user_flow.jpg)
+![User Flow](images/UserFlow.png)
 
 > **Links úteis**:
 > - [User flow: o quê é e como fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
