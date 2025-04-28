@@ -22,29 +22,16 @@ Utilizando a notação do DER (Diagrama Entidade-Relacionamento), elabore um mod
 
 Apresente o modelo de dados por meio de um modelo relacional que contemple todos os conceitos e atributos apresentados na modelagem dos processos.
 
-### Modelo ER
-
-O Modelo ER representa, por meio de um diagrama, como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-> **Links úteis**:
-> - [Como fazer um diagrama entidade relacionamento](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
-
 ### Esquema relacional
 
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+Respresentação do esquema relacional entre administradores, usuários e empresas 
  
-
-![Exemplo de um modelo relacional](images/modelo_relacional.png "Exemplo de modelo relacional.")
+![Modelo Relacional](images/Diagrama-Entidade-Relacionamento.jpeg")
 ---
-
-> **Links úteis**:
-> - [Criando um modelo relacional - documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/12.0.0?topic=designer-creating-relational-model)
 
 ### Modelo físico
 
-Insira aqui o script de criação das tabelas do banco de dados.
-
-Veja um exemplo:
+Script de tabelas do site:
 
 ```sql
 -- Criação da tabela Admin
