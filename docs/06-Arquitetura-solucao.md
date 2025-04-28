@@ -26,7 +26,7 @@ Apresente o modelo de dados por meio de um modelo relacional que contemple todos
 
 Respresentação do esquema relacional entre administradores, usuários e empresas 
  
-![Modelo Relacional](images/Diagrama-Entidade-Relacionamento.jpeg")
+![Modelo Relacional](docs/images/Diagrama-Entidade-Relacionamento.jpeg)
 ---
 
 ### Modelo físico
@@ -92,9 +92,9 @@ Esse script deverá ser incluído em um arquivo .sql na pasta [de scripts SQL](.
 
 ## Tecnologias
 
-Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+O site é concebido através do C# no back-end, responsável pelas principais funcionalidades do site, como: Fazer denúncias. O Banco de dados utilizado é o MongoDB, guardando dados tanto de usuários (informações pessoais e denúncias), quanto de empresas (para resolver as queixas dos usuários)
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia"
 
 
 | **Dimensão**   | **Tecnologia**  |
