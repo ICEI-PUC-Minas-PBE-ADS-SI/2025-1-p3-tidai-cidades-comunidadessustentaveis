@@ -1,5 +1,6 @@
 ## Arquivo .sql
 
+```sql
 -- Criação da tabela Admin
 CREATE TABLE Admin (
     AdmCodigo INTEGER PRIMARY KEY,
@@ -52,3 +53,4 @@ CREATE TABLE Empresas (
     EmpTipo VARCHAR(100), //Água, luz, etc
     FOREIGN KEY (Denuncia) REFERENCES Denuncia(Denuncia)
 );
+```
