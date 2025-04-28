@@ -68,15 +68,17 @@ Atualizado em: 17/03/2025
 
 #### Sprint 2
 
-Atualizado em: 21/04/2024
+Atualizado em: 25/04/2025
 
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Página inicial   | 01/02/2024     | 07/03/2024 | ✔️    | 05/02/2024      |
-| AlunaZ        | CSS unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
-
+| Responsável   | Tarefa/Requisito  | Iniciado em    | Prazo      | Status | Terminado em |
+| :----         |    :----          |      :----:    | :----:     | :----: | :----:       |
+| Nathalya Dias | Página de login   | 16/03/2025     | 25/04/2025 |   ✔️  | 07/04/2025    |
+| Nathalya Dias | Script de login   |  19/03/2025    | 25/04/2025 |  ✔️   |  07/04/2025   |
+| Alan Lacerda  | Página de cadastro|  21/03/2025    | 25/04/2025 |  ✔️   |  13/04/2025   |
+| André Ravacini| Página inicial    | 19/03/2025     | 25/04/2025 | ✔️    | 01/04/2024    |
+| André Ravacini| CSS unificado     | 24/03/2025     | 25/04/2025 | ✔️    | 01/04/2025    |
+| Cristhian Dias| Banco de dados    |  24/03/2025    | 25/04/2025 |  ✔️   |  20/04/2025   |
+| Victor Jorge  | Página de denúncia|  24/03/2025    | 25/04/2025 |  ✔️   |  18/04/2025   |
 
 Legenda:
 - ✔️: terminado
