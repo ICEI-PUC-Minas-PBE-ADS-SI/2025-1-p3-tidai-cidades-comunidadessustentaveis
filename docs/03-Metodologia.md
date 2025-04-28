@@ -46,10 +46,10 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 - Documentação: Alan Lacerda, Cristhian Dias e Victor Jorge
 
 #### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: Alan Lacerda
+- Desenvolvedor _front-end_: André Lucas e Nathalya Dias
+- Desenvolvedor _back-end_: Cristhian Dias
+- Testes: Victor
 
 ###  Quadro de tarefas
 
