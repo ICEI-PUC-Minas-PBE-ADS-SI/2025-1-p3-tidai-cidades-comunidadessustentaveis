@@ -25,3 +25,20 @@ Nesse tópico irá abordar todo o processo de construção do template que será
 <p align="justify">Essa paleta foi estrategicamente adotada para reforçar os valores de cidadania ativa, colaboração pública e construção de cidades mais sustentáveis, alinhando a identidade visual ao propósito da plataforma.</p>
 
 ![image](images/Paleta.png)
+
+
+### Harmonia em tons de verde
+
+<p align="justify">Esta paleta foi escolhida para transmitir a ideia de sustentabilidade, seriedade e conexão com a natureza, elementos fundamentais para projetos de cidadania e iniciativas governamentais.</p>
+
+#254031 — Dark Green: representa estabilidade, responsabilidade e compromisso com o meio ambiente.
+
+#025918 — Deep Green: reforça a seriedade e a confiança necessárias para serviços públicos.
+
+#014011 — Rich Forest Green: traduz a sensação de segurança, proteção e solidez institucional.
+
+#02730A — Vivid Green: traz energia e vitalidade, incentivando a ação cidadã de maneira positiva.
+
+#09A603 — Bright Green: adiciona frescor e esperança, transmitindo otimismo e incentivo à participação popular.
+
+<p align="justify">A predominância dos tons de verde conecta diretamente com temas de responsabilidade social e governança, além de favorecer a associação com práticas sustentáveis e urbanismo consciente.</p>
