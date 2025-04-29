@@ -88,7 +88,7 @@ Esse script deverá ser incluído em um arquivo .sql na pasta [de scripts SQL](.
 
 O site é concebido através do C# no back-end, responsável pelas principais funcionalidades do site, como: Fazer denúncias. O Banco de dados utilizado é o MongoDB, guardando dados tanto de usuários (informações pessoais e denúncias), quanto de empresas (para resolver as queixas dos usuários)
 
-O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia"
+O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia". O projeto todo é atualizado via Github.
 
 
 | **Dimensão**   | **Tecnologia**  |
@@ -96,7 +96,7 @@ O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia
 | Front-end      | HTML + CSS + JS |
 | Back-end       | C#        |
 | SGBD           | MongoDB           |
-| Deploy         | Vercel          |
+| Deploy         | Github          |
 
 
 ## Hospedagem
