@@ -12,10 +12,6 @@ O diagrama de classes ilustra graficamente a estrutura do software e como cada u
 
 ![image](images/diagrama_de_classes.png)
 
-> **Links úteis**:
-> - [Diagramas de classes - documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-class)
-> - [O que é um diagrama de classe UML?](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
-
 ##  Modelo de dados
 
 ### Esquema relacional
