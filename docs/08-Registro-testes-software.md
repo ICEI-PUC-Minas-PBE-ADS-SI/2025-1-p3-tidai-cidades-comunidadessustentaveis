@@ -8,14 +8,18 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 
 | **Caso de teste** 	| **CT-001 – Cadastrar perfil** 	|
 |:---:	|:---:	|
-| Requisito associado | RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Registro de evidência | [www.teste.com.br/drive/ct-01](http://www.teste.com.br/drive/ct-01) |
+| Requisito associado | A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
+| Registro de evidência | [https://drive.google.com/file/d/1uWof84meULUvKCNLd-9ACoXf96wEbWpW/view?usp=drive_link]
 
 | **Caso de teste** 	| **CT-002 – Realizar login** 	|
 |:---:	|:---:	|
-| Requisito associado | RF-00Y - A aplicação deve permitir que um usuário previamente cadastrado faça login. |
-| Registro de evidência | [www.teste.com.br/drive/ct-02](http://www.teste.com.br/drive/ct-02) |
+| Requisito associado | A aplicação deve permitir que um usuário previamente cadastrado faça login. |
+| Registro de evidência | [https://drive.google.com/file/d/1PGFMYzSzoD-hVETIhpKAzrfhwQGwyBQh/view?usp=drive_link]
 
+| **Caso de teste** 	| **CT-003 – Registrar denúncia** 	|
+|:---:	|:---:	|
+| Requisito associado | A aplicação deve apresentar uma página que permita o registro de uma denúncia no site. |
+| Registro de evidência | [https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd/view?usp=drive_link]
 
 > **Links úteis**:
 > - [Screencast: entenda o que é e como gravar vídeos com ele](https://rockcontent.com/br/blog/screencast/) 
