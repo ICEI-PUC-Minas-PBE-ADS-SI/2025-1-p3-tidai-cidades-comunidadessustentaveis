@@ -42,8 +42,10 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 | Registro de evidência | [https://youtu.be/sbgDfLusr64]
 
 ## Avaliação
+<p align="justify">A partir dos testes realizados na aplicação, foi possível identificar diversos pontos que podem ser aprimorados, especialmente no aspecto visual da interface. A experiência do usuário ainda pode ser otimizada para torná-la mais intuitiva, facilitando a navegação e o uso dos recursos disponíveis. Apesar disso, a funcionalidade de registro de denúncias apresentou um bom desempenho, atendendo aos requisitos propostos de forma satisfatória.</p>
 
-Discorra sobre os resultados do teste, ressaltando os pontos fortes e fracos identificados na solução. Comente como o grupo pretende abordar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+<p align="justify">Um ponto de atenção identificado foi a área administrativa da aplicação. Atualmente, o administrador consegue apenas alterar o status das denúncias, sem acesso detalhado às informações completas de cada uma. Essa limitação compromete a eficiência da análise e do acompanhamento das ocorrências reportadas pelos cidadãos.</p>
 
-> **Links úteis**:
-> - [Ferramentas de Teste para JavaScript](https://geekflare.com/javascript-unit-testing/)
+<p align="justify">Com base nessa análise, o grupo definiu como prioridade para a próxima iteração o aprimoramento do painel do administrador. Serão implementadas melhorias que permitam a visualização completa das denúncias, além de ajustes no layout e na organização dos dados, proporcionando uma interface mais funcional e eficiente para os gestores.</p>
+
+<p align="justify">Em resumo, os testes apontaram que a aplicação está caminhando bem em relação às funcionalidades voltadas para o cidadão, enquanto a área administrativa requer mais atenção no momento. As melhorias identificadas já estão sendo planejadas para as próximas versões do sistema.</p>
