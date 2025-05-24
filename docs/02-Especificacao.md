@@ -63,11 +63,12 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 |RF-002| Realizar login e autenticação   | ALTA |
 |RF-003| Registrar denúncias   | ALTA |
 |RF-004| Enviar imagens   | MÉDIA |
-|RF-005| Exibir mapa interativo   | MÉDIA |
-|RF-006| Filtrar denúncias  | MÉDIA |
-|RF-007| Fornecer status das demandas pelo governo   | ALTA |
-|RF-008| Garantir uma interface intuitiva  | MÉDIA |
-|RF-009| Confirmar denúncia  | MÉDIA |
+|RF-005| Enviar status da denúncia   | MÉDIA |
+|RF-006| Exibir mapa interativo   | MÉDIA |
+|RF-007| Filtrar denúncias  | MÉDIA |
+|RF-008| Fornecer status das demandas pelo governo   | ALTA |
+|RF-009| Garantir uma interface intuitiva  | MÉDIA |
+|RF-010| Confirmar denúncia  | MÉDIA |
 
 
 ### Requisitos não funcionais
