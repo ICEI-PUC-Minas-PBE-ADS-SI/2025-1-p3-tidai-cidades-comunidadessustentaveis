@@ -4,7 +4,18 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano de testes de software</a>, realize o registro das evidências dos testes feitos na aplicação pela equipe, que comprovem que o critério de êxito foi alcançado (ou não!). Para isso, utilize uma ferramenta de captura de tela que mostre cada um dos casos de teste definidos. Observação: cada caso de teste deverá possuir um vídeo do tipo _screencast_ para caracterizar uma evidência do referido caso.
+<p align="justify">Este relatório apresenta as evidências dos testes de software realizados no sistema de gestão de denúncias de problemas de infraestrutura urbana, conforme os casos definidos no Plano de Testes. Os testes foram conduzidos pela equipe de desenvolvimento, com o objetivo de verificar o cumprimento dos critérios de êxito estabelecidos para cada funcionalidade da aplicação.</p>
+
+<p align="justify">Para cada caso de teste, foi realizado o registro das evidências por meio de capturas de tela e vídeos no formato screencast, demonstrando o comportamento da aplicação diante das ações executadas. Essas evidências comprovam se o sistema atendeu ou não aos requisitos esperados.</p>
+
+Entre os casos testados, destacam-se:
+- Registro de denúncias pelos cidadãos, que apresentou funcionamento adequado e conforme o esperado.
+
+- Autenticação de usuários, com sucesso no login tanto de cidadãos quanto de administradores.
+
+- Visualização e alteração de status das denúncias pelo administrador, funcionalidade que foi parcialmente validada, pois se constatou que o administrador ainda não consegue visualizar os detalhes completos de cada denúncia
+  
+<br>
 
 | **Caso de teste** 	| **CT-001 – Cadastrar perfil** 	|
 |:---:	|:---:	|
