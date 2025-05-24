@@ -8,41 +8,49 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 
 | **Caso de teste** 	| **CT-001 – Cadastrar perfil** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
+| Requisito associado |RF-001	- Cadastrar usuários |
 | Registro de evidência | [https://youtu.be/vCxXKlzkUQ4]
 
-| **Caso de teste** 	| **CT-002 – Realizar login** 	|
+| **Caso de teste** 	| **CT-002 – Efetuar login** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve permitir que um usuário previamente cadastrado faça login. |
+| Requisito associado | RF-002 - Realizar login e autenticação |
 | Registro de evidência | [https://drive.google.com/file/d/1PGFMYzSzoD-hVETIhpKAzrfhwQGwyBQh/view?usp=drive_link]
 
 | **Caso de teste** 	| **CT-003 – Registrar denúncia** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar uma página que permita o registro de uma denúncia no site. |
+| Requisito associado | RF-003 - Registrar denúncias |
 | Registro de evidência | [https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd/view?usp=drive_link]
 
-| **Caso de teste** 	| **CT-004 – Pagina de Inicio** 	|
+| **Caso de teste** 	| **CT-004 – Verificar status da denúncia** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar a pagina de inicio, onde será a primeira pagina que o usuario ira entrar apos o login. |
-| Registro de evidência | [https://drive.google.com/file/d/1_tz9dhMdG-pJkFmHkYo1SksTMa1zfkAo/view?usp=drive_link]
+| Requisito associado | RF-005 - Exibir status da denúncia |
+| Registro de evidência | [https://youtu.be/LbsNp_8xKgc]
 
-| **Caso de teste** 	| **CT-005 – Pagina Sobre** 	|
+| **Caso de teste** 	| **CT-005 – Localizar denúncias no mapa** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar a pagina de sobre, onde o usuario podera conhecer mais da nossa empresa "Missão Visão e Valores". |
-| Registro de evidência | [https://drive.google.com/file/d/1vrFgAhx644YiT-_TDi8sPv2LhmS_rCjH/view?usp=drive_link]
+| Requisito associado | RF-006 - Mapa interativo |
+| Registro de evidência | [https://youtu.be/J8476zGskwA]
 
-| **Caso de teste** 	| **CT-006 – Status da Denuncia** 	|
+| **Caso de teste** 	| **CT-006 – Verificar interface intuitiva** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar a pagina de status, onde devera apresentar qual é p status atual da denuncia (Pendende, Resolvida ou Não Resolvida)". |
-| Registro de evidência | [https://drive.google.com/file/d/1ZHZNJEa3WKEz4wCGEigQz3-hNJIWEYl5/view?usp=drive_link]
+| Requisito associado | RF-009 - Garantir uma interface intuitiva |
+| Registro de evidência | [https://youtu.be/MSzrpCom5V4]
 
-| **Caso de teste** 	| **CT-007 – Filtro do Mapa** 	|
+| **Caso de teste** 	| **CT-00 – ** 	|
 |:---:	|:---:	|
-| Requisito associado | A aplicação deve apresentar o filtro do mapa, onde devera mostrar no mapa onde estão localizadas as denuncias e seus tipos". |
-| Registro de evidência | [https://drive.google.com/file/d/12CIfzI5m_iu_vQeer3WBIh2-Z4H1iDWD/view?usp=drive_link]
+| Requisito associado | RF-00 -  |
+| Registro de evidência | []
 
-> **Links úteis**:
-> - [Screencast: entenda o que é e como gravar vídeos com ele](https://rockcontent.com/br/blog/screencast/) 
+| **Caso de teste** 	| **CT-00 – ** 	|
+|:---:	|:---:	|
+| Requisito associado | RF-00 -  |
+| Registro de evidência | []
+
+| **Caso de teste** 	| **CT-00 – ** 	|
+|:---:	|:---:	|
+| Requisito associado | RF-00 -  |
+| Registro de evidência | []
+
 
 ## Avaliação
 
