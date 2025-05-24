@@ -16,7 +16,7 @@
 | Objetivo do teste | Verificar se o usuário consegue realizar login. |
 | Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo de senha <br> - Clicar em "Entrar" |
 | Critério de êxito | - O login foi realizado com sucesso. |
-| Responsável pela elaboração do caso de teste | Alan Lacerda Arantes |
+| Responsável pela elaboração do caso de teste | Cristhian Dias Braga |
 
 <br>
 
@@ -26,7 +26,7 @@
 | Objetivo do teste | Verificar se o usuário consegue registrar uma denúncia na aplicação. |
 | Passos | - Acessar o site <br> - Realizar o login <br> - Preencher o formulário de denúncia<br> - Informar o Título do problema <br> - Selecionar o tipo do problema <br> - Informar o endereço <br> - Descrever com detalhes o problema <br> - Selecionar foto, caso queira <br> - Clicar no botão "Reportar Problema"|
 | Critério de êxito | - A denúncia foi realizada com sucesso. |
-| Responsável pela elaboração do caso de teste | Alan Lacerda Arantes |
+| Responsável pela elaboração do caso de teste | Cristhian Dias Braga |
 
 <br>
 
