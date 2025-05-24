@@ -52,3 +52,13 @@
 | Passos | - Acessar o site <br> - Clicar em "Mapa" no topo <br> - Clicar nos botões de filtro (Todos, buraco, iluminação, esgoto) |
 | Critério de êxito | - O mapa interativo está funcionando com sucesso. |
 | Responsável pela elaboração do caso de teste | Victor Jorge Alves Souza |
+
+<br>
+
+| **Caso de teste**  | **CT-006 – Página do administrador**  |
+|:---: |:---: |
+| Requisito associado | RF-011 - Fornecer uma página para o administrador |
+| Objetivo do teste | Verificar se o administrador consegue vizualizar e atualizar as denúncias na aplicação. |
+| Passos | - Acessar a página <br> - Realizar login de administrador <br> - Alterar status da denúncia|
+| Critério de êxito | - O status da denúncia foi atualizado com sucesso. |
+| Responsável pela elaboração do caso de teste | Alan Lacerda Arantes |
