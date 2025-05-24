@@ -9,7 +9,7 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 | **Caso de teste** 	| **CT-001 – Cadastrar perfil** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Registro de evidência | [https://drive.google.com/file/d/1uWof84meULUvKCNLd-9ACoXf96wEbWpW/view?usp=drive_link]
+| Registro de evidência | [https://youtu.be/vCxXKlzkUQ4]
 
 | **Caso de teste** 	| **CT-002 – Realizar login** 	|
 |:---:	|:---:	|
