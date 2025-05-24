@@ -21,22 +21,22 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 | Requisito associado | A aplicação deve apresentar uma página que permita o registro de uma denúncia no site. |
 | Registro de evidência | [https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd/view?usp=drive_link]
 
-| **Caso de teste** 	| **CT-001 – Pagina de Inicio** 	|
+| **Caso de teste** 	| **CT-004 – Pagina de Inicio** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar a pagina de inicio, onde será a primeira pagina que o usuario ira entrar apos o login. |
 | Registro de evidência | [https://drive.google.com/file/d/1ZHZNJEa3WKEz4wCGEigQz3-hNJIWEYl5/view?usp=drive_link]
 
-| **Caso de teste** 	| **CT-001 – Pagina Sobre** 	|
+| **Caso de teste** 	| **CT-005 – Pagina Sobre** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar a pagina de sobre, onde o usuario podera conhecer mais da nossa empresa "Missão Visão e Valores". |
 | Registro de evidência | [https://drive.google.com/file/d/1vrFgAhx644YiT-_TDi8sPv2LhmS_rCjH/view?usp=drive_link]
 
-| **Caso de teste** 	| **CT-001 – Status da Denuncia** 	|
+| **Caso de teste** 	| **CT-006 – Status da Denuncia** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar a pagina de status, onde devera apresentar qual é p status atual da denuncia (Pendende, Resolvida ou Não Resolvida)". |
 | Registro de evidência | [https://drive.google.com/file/d/1ZHZNJEa3WKEz4wCGEigQz3-hNJIWEYl5/view?usp=drive_link]
 
-| **Caso de teste** 	| **CT-001 – Filtro do Mapa** 	|
+| **Caso de teste** 	| **CT-007 – Filtro do Mapa** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar o filtro do mapa, onde devera mostrar no mapa onde estão localizadas as denuncias e seus tipos". |
 | Registro de evidência | [https://drive.google.com/file/d/12CIfzI5m_iu_vQeer3WBIh2-Z4H1iDWD/view?usp=drive_link]
