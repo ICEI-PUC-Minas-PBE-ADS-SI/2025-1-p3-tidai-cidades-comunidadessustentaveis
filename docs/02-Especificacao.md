@@ -69,6 +69,7 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 |RF-008| Fornecer status das demandas pelo governo   | ALTA |
 |RF-009| Garantir uma interface intuitiva  | MÉDIA |
 |RF-010| Confirmar denúncia  | MÉDIA |
+|RF-011| Fornecer uma página para o administrador  | MÉDIA |
 
 
 ### Requisitos não funcionais
