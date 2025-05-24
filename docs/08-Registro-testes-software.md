@@ -24,7 +24,7 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 | **Caso de teste** 	| **CT-004 – Pagina de Inicio** 	|
 |:---:	|:---:	|
 | Requisito associado | A aplicação deve apresentar a pagina de inicio, onde será a primeira pagina que o usuario ira entrar apos o login. |
-| Registro de evidência | [https://drive.google.com/file/d/1ZHZNJEa3WKEz4wCGEigQz3-hNJIWEYl5/view?usp=drive_link]
+| Registro de evidência | [https://drive.google.com/file/d/1_tz9dhMdG-pJkFmHkYo1SksTMa1zfkAo/view?usp=drive_link]
 
 | **Caso de teste** 	| **CT-005 – Pagina Sobre** 	|
 |:---:	|:---:	|
