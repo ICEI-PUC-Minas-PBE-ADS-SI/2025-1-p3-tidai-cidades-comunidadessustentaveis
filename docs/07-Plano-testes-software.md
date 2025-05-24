@@ -1,4 +1,9 @@
 # Plano de testes de software
+<span style="color:red">Pré-requisitos: <a href="02-Especificacao.md"> Especificação do projeto</a></span>, <a href="04-Projeto-interface.md"> Projeto de interface</a>
+
+<p align="justify">O plano de testes de software da aplicação foi desenvolvido com base na especificação funcional do sistema e tem como objetivo validar o correto funcionamento das funcionalidades principais, garantindo que os requisitos estabelecidos estejam sendo atendidos de forma eficaz. Os testes foram realizados com versões parciais e posteriormente com a versão completa da aplicação.</p>
+
+<p align="justify">A seguir, são apresentados os cenários de teste definidos para avaliar o desempenho e a usabilidade da plataforma. Os cenários foram escolhidos com base nas funcionalidades essenciais do sistema, tais como o envio de denúncias pelos cidadãos, o acompanhamento do status da solicitação, e o gerenciamento das ocorrências pelas prefeituras e entidades responsáveis.</p>
 
 | **Caso de teste**  | **CT-001 – Cadastrar perfil**  |
 |:---: |:---: |
