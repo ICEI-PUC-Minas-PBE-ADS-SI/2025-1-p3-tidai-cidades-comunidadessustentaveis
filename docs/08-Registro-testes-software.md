@@ -36,21 +36,10 @@ Para cada caso de teste definido no <a href="07-Plano-testes-software.md"> Plano
 | Requisito associado | RF-009 - Garantir uma interface intuitiva |
 | Registro de evidência | [https://youtu.be/MSzrpCom5V4]
 
-| **Caso de teste** 	| **CT-00 – ** 	|
+| **Caso de teste** 	| **CT-007 – Interface do ADM** 	|
 |:---:	|:---:	|
-| Requisito associado | RF-00 -  |
-| Registro de evidência | []
-
-| **Caso de teste** 	| **CT-00 – ** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-00 -  |
-| Registro de evidência | []
-
-| **Caso de teste** 	| **CT-00 – ** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-00 -  |
-| Registro de evidência | []
-
+| Requisito associado | RF-011 - Fornecer uma página para o administrador |
+| Registro de evidência | [https://youtu.be/sbgDfLusr64]
 
 ## Avaliação
 
