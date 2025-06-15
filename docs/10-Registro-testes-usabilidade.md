@@ -4,7 +4,7 @@
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O registro de testes de usabilidade é um relatório que contém as evidências dos testes e os relatos dos usuários participantes, baseado no <a href="09-Plano-testes-usabilidade.md"> Plano de testes de usabilidade</a> desenvolvido para os casos de uso desta etapa.
 
-Cenário 1: Você é uma pessoa que deseja comprar um iPhone. Encontre no site um iPhone e veja detalhes de localização e contato da loja que o está anunciando.
+**Cenário 1:** Você é um morador da cidade e deseja reportar um buraco na rua em frente à sua casa. Acesse a plataforma, faça login e registre uma denúncia com foto e localização.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -16,10 +16,10 @@ Cenário 1: Você é uma pessoa que deseja comprar um iPhone. Encontre no site u
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8,66 segundos |
 
 
-Comentários dos usuários: Achei o site muito bom e intuitivo. Não tive dificuldades e acho que ficou bem intuitivo.
+Comentários dos usuários:
 
 
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphones nessa faixa de preço.
+**Cenário 2:** Você é uma estudante que precisa denunciar a falta de iluminação pública em uma rua próxima à universidade. Use o sistema para cadastrar o problema e verificar se há alguma denúncia semelhante já registrada.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -30,7 +30,35 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
 
-Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam  redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros,  tanto na hora da pesquisa, quanto depois dela, nos resultados.
+Comentários dos usuários:
+
+
+**Cenário 3:** Você é um comerciante e notou um vazamento de água em frente ao seu estabelecimento. Registre o problema e acompanhe o status da solicitação após o envio.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 22,54 segundos                          |
+| 2       | SIM             | 5                    | 31,42 segundos                          |
+| 3       | SIM             | 5                    | 36,21 segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
+
+Comentários dos usuários:
+
+
+**Cenário 4:** Você é um funcionário da prefeitura responsável pelo atendimento das denúncias. Acesse o painel administrativo, visualize as denúncias pendentes e altere o status de uma delas para “em andamento”.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 22,54 segundos                          |
+| 2       | SIM             | 5                    | 31,42 segundos                          |
+| 3       | SIM             | 5                    | 36,21 segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
+
+Comentários dos usuários:
 
 
 
