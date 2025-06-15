@@ -2,7 +2,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="04-Projeto-interface.md"> Projeto de interface</a></span>, <a href="09-Plano-testes-usabilidade.md"> Plano de testes de usabilidade</a>
 
-Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O registro de testes de usabilidade é um relatório que contém as evidências dos testes e os relatos dos usuários participantes, baseado no <a href="09-Plano-testes-usabilidade.md"> Plano de testes de usabilidade</a> desenvolvido para os casos de uso desta etapa.
+<p align="justify">Após a realização dos testes de usabilidade, este relatório apresenta os resultados e as análises referentes à interação dos usuários com a aplicação desenvolvida. O registro dos testes de usabilidade compila as evidências coletadas durante a execução dos cenários previamente definidos no Plano de Testes, bem como os relatos e percepções dos participantes.</p>
+
+<p align="justify">Este documento tem como finalidade documentar o desempenho da aplicação diante dos usuários-alvo, avaliando aspectos como a taxa de sucesso na execução das tarefas, a satisfação subjetiva dos participantes e o tempo necessário para conclusão dos cenários. As informações aqui contidas servem para subsidiar melhorias na interface e funcionalidade do sistema, visando garantir uma melhor experiência ao usuário final.</p>
+
+<p align="justify">Foram adotados todos os cuidados necessários para respeitar a privacidade dos voluntários, conforme as diretrizes da Lei Geral de Proteção de Dados (LGPD), garantindo que nenhum dado pessoal sensível tenha sido coletado ou divulgado.</p>
+
+## Resultados dos Testes de Cenários
 
 **Cenário 1:** Você é um morador da cidade e deseja reportar um buraco na rua em frente à sua casa. Acesse a plataforma, faça login e registre uma denúncia com foto e localização.
 
