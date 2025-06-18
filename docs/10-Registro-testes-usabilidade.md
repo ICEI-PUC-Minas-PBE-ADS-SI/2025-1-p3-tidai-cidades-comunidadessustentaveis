@@ -21,7 +21,7 @@
 | **Média**     | 100%           | 4,67                | 1min 57s                    |
 | **Tempo para conclusão pelo especialista** | SIM | 4 | 	0min 45s |
 
-Comentários dos usuários: “Achei bem fácil de usar, consegui fazer tudo sem dificuldade.”
+**Comentários dos usuários:** “Achei bem fácil de usar, consegui fazer tudo sem dificuldade.”
 
 “O sistema é claro, mas achei estranho porque tentei adicionar mais de uma foto do buraco e não consegui.”
 
@@ -40,7 +40,7 @@ Comentários dos usuários: “Achei bem fácil de usar, consegui fazer tudo sem
 | **Média**     | 100%           | 4                | 1min 55s                           |
 | **Tempo para conclusão pelo especialista** | SIM | 4 | 0min 54s |
 
-Comentários dos usuários: “Foi tranquilo cadastrar a denúncia.”
+**Comentários dos usuários:** “Foi tranquilo cadastrar a denúncia.”
 
 “O mapa ajudou bastante, mas eu quase não percebi que dava pra ver denúncias parecidas. Isso podia estar mais claro.”
 
@@ -59,7 +59,7 @@ Comentários dos usuários: “Foi tranquilo cadastrar a denúncia.”
 | **Média**     | 100%           | 5                | 2min 04s                       |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 0min 41s segundos |
 
-Comentários dos usuários: “Foi simples, gostei de já ver o status da minha denúncia logo depois que mandei.”
+**Comentários dos usuários:** “Foi simples, gostei de já ver o status da minha denúncia logo depois que mandei.”
 
 “Curti que não precisei ficar procurando pra saber se foi registrado, já aparece ali mesmo.”
 
@@ -78,7 +78,7 @@ Comentários dos usuários: “Foi simples, gostei de já ver o status da minha 
 | **Média**     | 100%           | 4,33                | 2min 08s                         |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 0min 48s |
 
-Comentários dos usuários: “Gostei porque é bem simples e tranquilo de usar, não tem segredo.”
+**Comentários dos usuários:** “Gostei porque é bem simples e tranquilo de usar, não tem segredo.”
 
 “Demorei pra encontrar o botão de trocar o status, ele fica meio escondido.”
 
