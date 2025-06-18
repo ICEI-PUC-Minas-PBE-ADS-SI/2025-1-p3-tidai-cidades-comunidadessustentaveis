@@ -14,57 +14,74 @@
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27,87 segundos                  |
-| 2       | SIM             | 5                    | 17,11 segundos                  |
-| 3       | SIM             | 5                    | 39,09 segundos                  |
+| 1       | SIM             | 5                    | 1min 34s                        |
+| 2       | SIM             | 4                    | 2min 27s                        |
+| 3       | SIM             | 5                    | 1min 51s                        |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8,66 segundos |
+| **Média**     | 100%           | 4,67                | 1min 57s                    |
+| **Tempo para conclusão pelo especialista** | SIM | 4 | 	0min 45s |
 
 
-Comentários dos usuários:
+Comentários dos usuários: “Achei bem fácil de usar, consegui fazer tudo sem dificuldade.”
+
+“O sistema é claro, mas achei estranho porque tentei adicionar mais de uma foto do buraco e não consegui.”
+
+“Gostei da forma como a localização funciona, é rápida.”
+
 
 
 **Cenário 2:** Você é uma estudante que precisa denunciar a falta de iluminação pública em uma rua próxima à universidade. Use o sistema para cadastrar o problema e verificar se há alguma denúncia semelhante já registrada.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22,54 segundos                          |
-| 2       | SIM             | 5                    | 31,42 segundos                          |
-| 3       | SIM             | 5                    | 36,21 segundos                          |
+| 1       | SIM             | 5                    | 1min 43s                          |
+| 2       | SIM             | 4                    | 2min 09s                        |
+| 3       | SIM             | 3                    | 1min 52s                        |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
+| **Média**     | 100%           | 4                | 1min 55s                           |
+| **Tempo para conclusão pelo especialista** | SIM | 4 | 0min 54s |
 
-Comentários dos usuários:
+Comentários dos usuários: “Foi tranquilo cadastrar a denúncia.”
+
+“O mapa ajudou bastante, mas eu quase não percebi que dava pra ver denúncias parecidas. Isso podia estar mais claro.”
+
+“O processo faz sentido, mas demorei um pouco pra achar onde ver se já tinha denúncia feita.”
 
 
 **Cenário 3:** Você é um comerciante e notou um vazamento de água em frente ao seu estabelecimento. Registre o problema e acompanhe o status da solicitação após o envio.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22,54 segundos                          |
-| 2       | SIM             | 5                    | 31,42 segundos                          |
-| 3       | SIM             | 5                    | 36,21 segundos                          |
+| 1       | SIM             | 5                    | 1min 39s                    |
+| 2       | SIM             | 5                    | 2min 28s                       |
+| 3       | SIM             | 5                    | 	2min 06s                         |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
+| **Média**     | 100%           | 5                | 2min 04s                       |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 0min 41s segundos |
 
-Comentários dos usuários:
+Comentários dos usuários: “Foi simples, gostei de já ver o status da minha denúncia logo depois que mandei.”
+
+“Curti que não precisei ficar procurando pra saber se foi registrado, já aparece ali mesmo.”
+
+“Achei funcional, mas poderia ter um aviso de confirmação mais destacado.”
 
 
 **Cenário 4:** Você é um funcionário da prefeitura responsável pelo atendimento das denúncias. Acesse o painel administrativo, visualize as denúncias pendentes e altere o status de uma delas para “em andamento”.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22,54 segundos                          |
-| 2       | SIM             | 5                    | 31,42 segundos                          |
-| 3       | SIM             | 5                    | 36,21 segundos                          |
+| 1       | SIM             | 5                    | 2min 12s                           |
+| 2       | SIM             | 5                    | 1min 24s                           |
+| 3       | SIM             | 3                    | 2min 49s                         |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13,57 segundos |
+| **Média**     | 100%           | 4,33                | 2min 08s                         |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 0min 48s |
 
-Comentários dos usuários:
+Comentários dos usuários: “Gostei porque é bem simples e tranquilo de usar, não tem segredo.”
+
+“Demorei pra encontrar o botão de trocar o status, ele fica meio escondido.”
+
+“Depois que achei o botão, foi de boa, mas podia estar mais visível.”
 
 
 
