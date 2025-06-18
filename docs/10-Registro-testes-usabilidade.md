@@ -21,14 +21,13 @@
 | **Média**     | 100%           | 4,67                | 1min 57s                    |
 | **Tempo para conclusão pelo especialista** | SIM | 4 | 	0min 45s |
 
-
 Comentários dos usuários: “Achei bem fácil de usar, consegui fazer tudo sem dificuldade.”
 
 “O sistema é claro, mas achei estranho porque tentei adicionar mais de uma foto do buraco e não consegui.”
 
 “Gostei da forma como a localização funciona, é rápida.”
 
-
+##
 
 **Cenário 2:** Você é uma estudante que precisa denunciar a falta de iluminação pública em uma rua próxima à universidade. Use o sistema para cadastrar o problema e verificar se há alguma denúncia semelhante já registrada.
 
@@ -47,6 +46,7 @@ Comentários dos usuários: “Foi tranquilo cadastrar a denúncia.”
 
 “O processo faz sentido, mas demorei um pouco pra achar onde ver se já tinha denúncia feita.”
 
+##
 
 **Cenário 3:** Você é um comerciante e notou um vazamento de água em frente ao seu estabelecimento. Registre o problema e acompanhe o status da solicitação após o envio.
 
@@ -65,7 +65,7 @@ Comentários dos usuários: “Foi simples, gostei de já ver o status da minha 
 
 “Achei funcional, mas poderia ter um aviso de confirmação mais destacado.”
 
-
+##
 
 **Cenário 4:** Você é um funcionário da prefeitura responsável pelo atendimento das denúncias. Acesse o painel administrativo, visualize as denúncias pendentes e altere o status de uma delas para “em andamento”.
 
