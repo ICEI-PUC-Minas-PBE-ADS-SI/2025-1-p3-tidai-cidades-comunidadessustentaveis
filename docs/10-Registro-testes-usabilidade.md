@@ -88,10 +88,8 @@
 
 ## Avaliação 
 
-Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta um desempenho satisfatório quanto à taxa de sucesso na interação dos usuários, uma vez que os cenários propostos foram concluídos com êxito.
-
-Além disso, a aplicação também alcançou um elevado nível de satisfação subjetiva dos usuários durante a realização dos cenários propostos. Isso é evidenciado pelas médias das avaliações em cada cenário, que variaram entre 4 (bom) e 5 (excelente).
-
-Em relação ao tempo de conclusão de cada tarefa/cenário, observou-se uma discrepância significativa entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Essa diferença, até certo ponto, é esperada, dado que o desenvolvedor já possui conhecimento prévio de toda a interface da aplicação, do posicionamento dos elementos, da lógica de organização das páginas, etc.
-
-No entanto, considerando que a diferença foi expressiva (por exemplo, 113 segundos — média dos usuários — contra 25 segundos — especialista — no cenário três), e levando em conta os comentários feitos por alguns usuários, foram identificadas oportunidades para melhorias na usabilidade da aplicação.
+<p align="justify">Com base nos resultados obtidos nos testes de usabilidade, verificou-se que a aplicação apresentou um desempenho satisfatório, uma vez que todos os usuários conseguiram concluir com sucesso os cenários propostos, atingindo uma taxa de sucesso de 100% em todas as tarefas avaliadas.</p>
+<p align="justify">Além disso, a satisfação subjetiva dos usuários foi elevada, com médias variando entre 4 e 5 em uma escala de 1 a 5, o que indica que a maioria dos participantes considerou a aplicação fácil e agradável de usar. Essa avaliação positiva reflete a efetividade do design e da funcionalidade da plataforma para os diferentes perfis testados.</p>
+<p align="justify">Em relação ao tempo para conclusão das tarefas, houve uma diferença expressiva entre a média dos usuários e o tempo do especialista, que conhecia previamente a interface e os fluxos da aplicação. Por exemplo, no terceiro cenário, o tempo médio dos usuários foi de 2 minutos e 4 segundos, enquanto o especialista realizou a tarefa em apenas 41 segundos. Essa diferença é esperada, porém indica pontos que podem ser aprimorados para tornar o uso mais intuitivo e rápido para usuários comuns.</p>
+<p align="justify">Os comentários coletados também apontaram oportunidades de melhoria, como a necessidade de tornar mais evidente a opção de adicionar múltiplas fotos, melhorar a visibilidade do botão para alterar o status das denúncias e destacar melhor a funcionalidade de consulta a denúncias semelhantes. Essas observações são valiosas para guiar futuras iterações no desenvolvimento da aplicação, visando aprimorar ainda mais a experiência do usuário.</p>
+<p align="justify">Em suma, a avaliação indica que a plataforma atende bem aos objetivos iniciais, apresentando boa usabilidade e funcionalidade, com espaço para ajustes que tornem a interface ainda mais acessível e eficiente.</p>
