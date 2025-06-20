@@ -17,35 +17,15 @@ Entre os casos testados, destacam-se:
   
 <br>
 
-| **Caso de teste** 	| **CT-001 – Cadastrar perfil** 	|
-|:---:	|:---:	|
-| Requisito associado |RF-001	- Cadastrar usuários |
-| Registro de evidência | [https://youtu.be/vCxXKlzkUQ4]
+| **Caso de teste**                        | **Requisito associado**                                        | **Registro de evidência**                                                                                                                                       |
+|------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CT-001 – Cadastrar perfil                | RF-001 – Cadastrar usuários                                     | [https://youtu.be/vCxXKlzkUQ4](https://youtu.be/vCxXKlzkUQ4)                                                                                                     |
+| CT-002 – Efetuar login                   | RF-002 – Realizar login e autenticação                          | [https://drive.google.com/file/d/1PGFMYzSzoD-hVETIhpKAzrfhwQGwyBQh/view?usp=drive_link](https://drive.google.com/file/d/1PGFMYzSzoD-hVETIhpKAzrfhwQGwyBQh)       |
+| CT-003 – Registrar denúncia              | RF-003 – Registrar denúncias                                    | [https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd/view?usp=drive_link](https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd)       |
+| CT-004 – Verificar status da denúncia    | RF-005 – Exibir status da denúncia                              | [https://youtu.be/LbsNp_8xKgc](https://youtu.be/LbsNp_8xKgc)                                                                                                     |
+| CT-005 – Localizar denúncias no mapa     | RF-006 – Mapa interativo                                        | [https://youtu.be/J8476zGskwA](https://youtu.be/J8476zGskwA)                                                                                                     |
+| CT-006 – Interface do ADM                | RF-011 – Fornecer uma página para o administrador              | [https://youtu.be/sbgDfLusr64](https://youtu.be/sbgDfLusr64)                                                                                                     |
 
-| **Caso de teste** 	| **CT-002 – Efetuar login** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-002 - Realizar login e autenticação |
-| Registro de evidência | [https://drive.google.com/file/d/1PGFMYzSzoD-hVETIhpKAzrfhwQGwyBQh/view?usp=drive_link]
-
-| **Caso de teste** 	| **CT-003 – Registrar denúncia** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-003 - Registrar denúncias |
-| Registro de evidência | [https://drive.google.com/file/d/1I8RShWj9uEZ-eiX3LIPj3wdb-bHPThCd/view?usp=drive_link]
-
-| **Caso de teste** 	| **CT-004 – Verificar status da denúncia** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-005 - Exibir status da denúncia |
-| Registro de evidência | [https://youtu.be/LbsNp_8xKgc]
-
-| **Caso de teste** 	| **CT-005 – Localizar denúncias no mapa** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-006 - Mapa interativo |
-| Registro de evidência | [https://youtu.be/J8476zGskwA]
-
-| **Caso de teste** 	| **CT-006 – Interface do ADM** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-011 - Fornecer uma página para o administrador |
-| Registro de evidência | [https://youtu.be/sbgDfLusr64]
 
 ## Avaliação
 <p align="justify">A partir dos testes realizados na aplicação, foi possível identificar diversos pontos que podem ser aprimorados, especialmente no aspecto visual da interface. A experiência do usuário ainda pode ser otimizada para torná-la mais intuitiva, facilitando a navegação e o uso dos recursos disponíveis. Apesar disso, a funcionalidade de registro de denúncias apresentou um bom desempenho, atendendo aos requisitos propostos de forma satisfatória.</p>
