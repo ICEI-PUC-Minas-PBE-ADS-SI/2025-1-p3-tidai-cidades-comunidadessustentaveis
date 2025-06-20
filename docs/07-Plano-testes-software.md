@@ -5,9 +5,9 @@
 
 <p align="justify">A seguir, são apresentados os cenários de teste definidos para avaliar o desempenho e a usabilidade da plataforma. Os cenários foram escolhidos com base nas funcionalidades essenciais do sistema, tais como o envio de denúncias pelos cidadãos, o acompanhamento do status da solicitação, e o gerenciamento das ocorrências pelas prefeituras e entidades responsáveis.</p>
 
-| **Caso de teste**  | **CT-001 – Cadastrar perfil**  |
+| **Caso de teste**  | **CT-001 – Cadastrar um perfil**  |
 |:---: |:---: |
-| Requisito associado | RF-001 - Cadastrar usuários |
+| Requisito associado | RF-005 - Gerenciar conta |
 | Objetivo do teste | Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar em "Entrar" <br> - Clicar em "Cadastro" <br> - Preencher os campos obrigatórios (Nome, sobrenome, CPF, telefone, E-mail, senha) <br> - Concordar com os termos e políticas <br> - Clicar no botão "Cadastre-se"|
 | Critério de êxito | - O cadastro foi realizado com sucesso. |
@@ -15,9 +15,9 @@
 
 <br>
 
-| **Caso de teste**  | **CT-002 – Efetuar login**  |
+| **Caso de teste**  | **CT-002 – Realizar um login**  |
 |:---: |:---: |
-| Requisito associado | RF-002 - Realizar login e autenticação |
+| Requisito associado | RF-009 - Efetuar login |
 | Objetivo do teste | Verificar se o usuário consegue realizar login. |
 | Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo de senha <br> - Clicar em "Entrar" |
 | Critério de êxito | - O login foi realizado com sucesso. |
@@ -25,9 +25,9 @@
 
 <br>
 
-| **Caso de teste**  | **CT-003 – Registrar denúncia**  |
+| **Caso de teste**  | **CT-003 – Registrar uma denúncia**  |
 |:---: |:---: |
-| Requisito associado | RF-003 - Registrar denúncias |
+| Requisito associado | RF-007 - Gerenciar denúncia |
 | Objetivo do teste | Verificar se o usuário consegue registrar uma denúncia na aplicação. |
 | Passos | - Acessar o site <br> - Realizar o login <br> - Preencher o formulário de denúncia<br> - Informar o Título do problema <br> - Selecionar o tipo do problema <br> - Informar o endereço <br> - Descrever com detalhes o problema <br> - Selecionar foto, caso queira <br> - Clicar no botão "Reportar Problema"|
 | Critério de êxito | - A denúncia foi realizada com sucesso. |
@@ -37,7 +37,7 @@
 
 | **Caso de teste**  | **CT-004 – Verificar status da denúncia**  |
 |:---: |:---: |
-| Requisito associado | RF-005 - Exibir status da denúncia |
+| Requisito associado | RF-014 - Visualizar denúncia |
 | Objetivo do teste | Verificar se o usuário consegue vizualizar o status da denúncia na aplicação. |
 | Passos | - Acessar a página <br> - Clicar no botão "Verificar status da denúncia"|
 | Critério de êxito | - O status da denúncia foi exibido com sucesso. |
@@ -47,7 +47,7 @@
 
 | **Caso de teste**  | **CT-005 – Localizar denúncias no mapa**  |
 |:---: |:---: |
-| Requisito associado | RF-005 - Exibir mapa interativo |
+| Requisito associado | RF-013 - Exibir mapa |
 | Objetivo do teste | Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos | - Acessar o site <br> - Clicar em "Mapa" no topo <br> - Clicar nos botões de filtro (Todos, buraco, iluminação, esgoto) |
 | Critério de êxito | - O mapa interativo está funcionando com sucesso. |
@@ -57,7 +57,7 @@
 
 | **Caso de teste**  | **CT-006 – Página do administrador**  |
 |:---: |:---: |
-| Requisito associado | RF-011 - Fornecer uma página para o administrador |
+| Requisito associado | RF-003 - Gerenciar Tipo de Denúncia |
 | Objetivo do teste | Verificar se o administrador consegue vizualizar e atualizar as denúncias na aplicação. |
 | Passos | - Acessar a página <br> - Realizar login de administrador <br> - Alterar status da denúncia|
 | Critério de êxito | - O status da denúncia foi atualizado com sucesso. |
