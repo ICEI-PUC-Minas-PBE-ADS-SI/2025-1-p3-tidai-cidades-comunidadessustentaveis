@@ -15,7 +15,10 @@
 <p align="justify">Por meio dele, é possível visualizar como os usuários interagem com o sistema ao realizar denúncias, que por sua vez possuem tipo, localização e podem conter anexos. As denúncias também podem receber respostas de administradores, que são responsáveis por acompanhar e responder as solicitações da população.</p>
 <p align="justify">Esse modelo contribui para a organização do código, facilitando a implementação, a manutenção e a escalabilidade da aplicação.</p>
 
-![image](images/Diagrama_de_classes.png)
+<p align="center">
+  <img src="images/Diagrama_de_classes.png" alt="image" />
+</p>
+
 
 ##  Modelo de dados
 
@@ -23,7 +26,10 @@
 
 Respresentação do esquema relacional entre administradores, usuários e empresas 
  
-![Modelo Relacional](images/Diagrama_Entidade_Relacionamento.png)
+<p align="center">
+  <img src="images/Diagrama_Entidade_Relacionamento.png" alt="image" />
+</p>
+
 ---
 
 ### Modelo físico
