@@ -42,12 +42,7 @@ Entre os casos testados, destacam-se:
 | Requisito associado | RF-006 - Mapa interativo |
 | Registro de evidência | [https://youtu.be/J8476zGskwA]
 
-| **Caso de teste** 	| **CT-006 – Verificar interface intuitiva** 	|
-|:---:	|:---:	|
-| Requisito associado | RF-009 - Garantir uma interface intuitiva |
-| Registro de evidência | [https://youtu.be/MSzrpCom5V4]
-
-| **Caso de teste** 	| **CT-007 – Interface do ADM** 	|
+| **Caso de teste** 	| **CT-006 – Interface do ADM** 	|
 |:---:	|:---:	|
 | Requisito associado | RF-011 - Fornecer uma página para o administrador |
 | Registro de evidência | [https://youtu.be/sbgDfLusr64]
