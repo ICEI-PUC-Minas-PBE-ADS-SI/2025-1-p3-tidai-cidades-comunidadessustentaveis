@@ -2,13 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="04-Projeto-interface.md"> Projeto de interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+<p align="justify">A arquitetura da solução proposta foi estruturada seguindo o modelo cliente-servidor, no qual o front-end e o back-end se comunicam através de uma API REST. O sistema é composto por três camadas principais: a interface do usuário (front-end), a lógica de negócios e serviços (back-end) e o banco de dados.</p>
+<p align="justify">O front-end é uma aplicação web responsiva desenvolvida com HTML, CSS e JavaScript, com foco na experiência mobile, podendo ser empacotada como aplicativo utilizando ferramentas como Capacitor ou Cordova. Esta camada é responsável por capturar as interações do usuário e enviar as requisições HTTP para o servidor.</p>
+<p align="justify">O back-end foi desenvolvido com Node.js e Express, sendo responsável pelo processamento das requisições, validação dos dados, controle de acesso e envio das respostas ao front-end. Toda a comunicação entre front-end e back-end é feita por meio de chamadas à API REST, utilizando o formato JSON.</p>
+<p align="justify">Os dados são armazenados em um banco de dados NoSQL MongoDB, que oferece flexibilidade e escalabilidade para o sistema. Ele armazena informações como denúncias registradas, status de atendimento, dados de usuários e imagens, garantindo performance mesmo com grandes volumes de dados.</p>
 
 ![Arquitetura da Solução](images/arquitetura.png)
 
 ## Diagrama de classes
 
-O diagrama de classes ilustra graficamente a estrutura do software e como cada uma das classes estará interligada. Essas classes servem de modelo para materializar os objetos que serão executados na memória.
+<p align="justify">O diagrama de classes a seguir representa a estrutura lógica da aplicação proposta, evidenciando como as principais entidades do sistema se relacionam entre si. Ele serve como base para o desenvolvimento orientado a objetos, permitindo a modelagem de atributos e comportamentos essenciais para o funcionamento do sistema de denúncias de problemas urbanos.</p>
+<p align="justify">Por meio dele, é possível visualizar como os usuários interagem com o sistema ao realizar denúncias, que por sua vez possuem tipo, localização e podem conter anexos. As denúncias também podem receber respostas de administradores, que são responsáveis por acompanhar e responder as solicitações da população.</p>
+<p align="justify">Esse modelo contribui para a organização do código, facilitando a implementação, a manutenção e a escalabilidade da aplicação.</p>
 
 ![image](images/Diagrama_de_classes.png)
 
@@ -109,13 +114,15 @@ Explique como a hospedagem e o lançamento da plataforma foram realizados.
 
 ## Qualidade de software
 
-Conceituar qualidade é uma tarefa complexa, mas ela pode ser vista como um método gerencial que, por meio de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+<p align="justify">Garantir a qualidade de um software voltado à gestão de infraestrutura urbana é essencial para assegurar que o sistema atenda de forma eficaz às necessidades da população e das autoridades envolvidas na manutenção da cidade. No contexto deste projeto, qualidade não é apenas uma meta técnica, mas um compromisso com a eficiência, a usabilidade e a confiabilidade da solução, considerando o impacto direto que ela exerce no cotidiano dos cidadãos.</p>
+<p align="justify">A qualidade do software, neste caso, deve garantir que o sistema seja acessível, responsivo, seguro e funcional, promovendo uma comunicação ágil e transparente entre os usuários (cidadãos) e os gestores públicos. Como o objetivo do sistema é solucionar problemas reais como falhas na iluminação, buracos nas vias ou vazamentos de água, a experiência do usuário e a robustez do sistema são critérios fundamentais.</p>
+<p align="justify">Para nortear o desenvolvimento, a equipe adotou como base a norma internacional ISO/IEC 25010, que define características e subcaracterísticas de qualidade aplicáveis a produtos de software. A partir dessa norma, as subcaracterísticas selecionadas para guiar a construção do sistema foram:</p>
 
-No contexto do desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem atendidas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, esse nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
+- **Usabilidade** (subcaracterísticas: adequação ao uso, facilidade de aprendizado, operabilidade): o sistema deve ser intuitivo e fácil de usar, mesmo para usuários com pouca familiaridade com tecnologia, permitindo que qualquer cidadão possa registrar uma ocorrência sem dificuldades.
+  
+- **Confiabilidade** (maturidade e tolerância a falhas): a aplicação precisa funcionar corretamente mesmo em diferentes situações de uso, reduzindo falhas que possam comprometer a confiança do cidadão no serviço.
+  
+- **Eficiência de Desempenho** (tempo de resposta): considerando que a aplicação será usada em dispositivos móveis e, muitas vezes, em locais com acesso limitado à internet, o tempo de resposta deve ser rápido para garantir uma boa experiência ao usuário.
+  
+- **Segurança** (confidencialidade e proteção de dados): por envolver o cadastro de usuários e envio de denúncias com localização e imagens, é essencial proteger os dados pessoais e garantir a integridade das informações.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software. Com base nessas características e nas respectivas subcaracterísticas, identifique as subcaracterísticas que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software, considerando alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão à equipe avaliar os objetos de interesse.
-
-> **Links úteis**:
-> - [ISO/IEC 25010:2011 - Systems and Software Engineering — Systems and Software Quality Requirements and Evaluation (SQuaRE) — System and Software Quality Models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de software - Engenharia de Software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
