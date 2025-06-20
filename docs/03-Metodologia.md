@@ -12,7 +12,7 @@
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório do código - fonte | Github         |Controle de versão e armazenamento do código do projeto.              |
 |Documentação do projeto     | Github               | Registra informações sobre o funcionamento do sistema e seu desenvolvimento. |
-|Protótipo do projeto      | Canvas            | Utilizado para criar e validar a interface antes da implementação. |
+|Protótipo do projeto      | Figma            | Utilizado para criar e validar a interface antes da implementação. |
 |Desenvolvimento da interface      | Visual Studio Code                | Utilizado para codificação do sistema em HTML, CSS e JavaScript. |
 |Banco de dados       | MySQL              | Armazena as informações sobre os problemas de infraestrutura urbana cadastrados pelos usuários. |
 
