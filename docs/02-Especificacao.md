@@ -25,18 +25,13 @@ Responsável por gerenciar e responder às denúncias feitas pelos cidadãos.
 Precisa de um painel para visualizar, organizar e atualizar o status das denúncias.
 Quer um sistema eficiente que facilite a comunicação com outros órgãos responsáveis.
 
-## 2 - Lucas Almeida, 28 anos - Auxiliar Administrativo
-Ajuda na verificação, categorização e atualização do status das denúncias.
-Auxilia na comunicação com os cidadãos, fornecendo retorno sobre suas solicitações.
-Garante que as denúncias sejam resolvidas de forma organizada dentro do sistema.
-
-## 3 - Pedro Paulo, 47 anos - Pedreiro
+## 2 - Pedro Paulo, 47 anos - Pedreiro
 Pedro Paulo enfrenta dificuldades no trajeto para o trabalho devido a um desvio causado pela queda de uma árvore. Ele já solicitou a remoção da árvore, porém não obteve resposta das autoridades responsáveis. Diante da falta de retorno, ele busca um meio adequado para registrar sua reclamação e obter uma solução.  
 
-## 4 - Mariana Medeiros, 20 anos - Estudante
+## 3 - Mariana Medeiros, 20 anos - Estudante
 Mariana Medeiros retorna da faculdade por uma rua com iluminação precária devido à ausência de postes de luz. Ela já tentou identificar o órgão responsável pela instalação dos postes, mas não obteve sucesso. Em razão disso, procura uma maneira digital, simples e acessível para relatar o problema e contribuir para a melhoria da segurança na região.  
 
-## 5 - Anderson Arantes, 36 anos - Empresário
+## 4 - Anderson Arantes, 36 anos - Empresário
 Anderson Arantes observou um aumento expressivo nas contas de água devido a um vazamento na rua próximo ao seu estabelecimento. No entanto, ele não sabe a quem recorrer para solicitar o reparo do vazamento e a regularização das tarifas afetadas. Diante dessa situação, busca uma solução eficiente para relatar o problema e minimizar os impactos financeiros causados.
 
 ## Histórias de usuários
@@ -46,7 +41,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |João Fernandes      | Gerenciar e responder denúncias    | Garantir que as solicitações sejam tratadas rapidamente |
-|Lucas Almeida       | Auxiliar no gerenciamento das denúncias | Manter o sistema organizado e garantir respostas rápidas |
 |Pedro Paulo         | Registrar denúncias de obstáculos nas vias públicas | Relatar problemas como quedas de árvores para evitar transtornos no trajeto |
 |Mariana Medeiros    | Registrar falta de iluminação pública | Relatar ruas escuras para melhorar a segurança |
 |Anderson Arantes    | Reportar vazamentos de água | Solicitar reparo e evitar desperdício e aumento da conta |
@@ -59,17 +53,20 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Cadastrar usuários | ALTA | 
-|RF-002| Realizar login e autenticação   | ALTA |
-|RF-003| Registrar denúncias   | ALTA |
-|RF-004| Enviar imagens   | MÉDIA |
-|RF-005| Exibir status da denúncia   | MÉDIA |
-|RF-006| Exibir mapa interativo   | MÉDIA |
-|RF-007| Filtrar denúncias  | MÉDIA |
-|RF-008| Fornecer status das demandas pelo governo   | ALTA |
-|RF-009| Garantir uma interface intuitiva  | MÉDIA |
-|RF-010| Confirmar denúncia  | MÉDIA |
-|RF-011| Fornecer uma página para o administrador  | MÉDIA |
+|RF-001| Gerenciar usuários | ALTA | 
+|RF-002| Gerenciar credenciais  | ALTA |
+|RF-003| Gerenciar Tipo de Denúncia | ALTA |
+|RF-004| Gerenciar notificações | MÉDIA |
+|RF-005| Gerenciar conta   | MÉDIA |
+|RF-006| Gerenciar arquivos de imagens | ALTA |
+|RF-007| Gerenciar denúncia | ALTA |
+|RF-008| Gerar relatório | ALTA |
+|RF-009| Efetuar login  | MÉDIA |
+|RF-010| Efetuar logout  | MÉDIA |
+|RF-011| Exibir estatísticas  | MÉDIA |
+|RF-012| Exibir gráficos  | MÉDIA |
+|RF-013| Exibir mapa  | MÉDIA |
+|RF-014| Visualizar denúncia  | MÉDIA |
 
 
 ### Requisitos não funcionais
@@ -81,9 +78,8 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 |RNF-003| O sistema deve ser de fácil usabilidade |  BAIXA | 
 |RNF-004| O sistema deve carregar as denúcnias rapidamente |  MÉDIA | 
 |RNF-005| Os dados do usuário devem ser protegidos, especialmente e-mails e senhas |  ALTA | 
-|RNF-006| O sistema deve estar acessível 24/7/2025 |  ALTA | 
-|RNF-007| O sistema deve funcionar nos principais navegadores e dispositivos móveis |  MÉDIA | 
-|RNF-008| O banco de dados deve ser otimizado para suportar grandes quantidades de dados |  ALTA | 
+|RNF-006| O sistema deve funcionar nos principais navegadores e dispositivos móveis |  MÉDIA | 
+|RNF-007| O banco de dados deve ser otimizado para suportar grandes quantidades de dados |  ALTA | 
 
 
 ## Restrições
@@ -93,7 +89,7 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |001| O projeto deverá ser entregue até o final do semestre |
-|002| O custo total do projeto não deve exceder o orçamento definido       |
+|002| O custo total do projeto não deve exceder o orçamento definido |
 
 ## Diagrama de casos de uso
 
