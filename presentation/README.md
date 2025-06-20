@@ -5,9 +5,18 @@
 
 ## Slides
 
-![images](..docs/images/Slide-1.png)
-
 ![Slide 1](../docs/images/Slide-1.png)
+![Slide 2](../docs/images/Slide-2.png)
+![Slide 3](../docs/images/Slide-3.png)
+![Slide 4](../docs/images/Slide-4.png)
+![Slide 5](../docs/images/Slide-5.png)
+![Slide 6](../docs/images/Slide-6.png)
+![Slide 7](../docs/images/Slide-7.png)
+![Slide 8](../docs/images/Slide-8.png)
+![Slide 9](../docs/images/Slide-9.png)
+![Slide 10](../docs/images/Slide-10.png)
+![Slide 11](../docs/images/Slide-11.png)
+![Slide 2](../docs/images/Slide-12.png)
 
 ## Vídeo
 
