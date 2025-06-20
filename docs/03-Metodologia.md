@@ -91,9 +91,9 @@ Legenda:
 <p align="justify">O processo de desenvolvimento é baseado no Scrum, permitindo uma abordagem iterativa para a construção do sistema. O fluxo de trabalho segue as seguintes etapas:</p>
 
  - **GitHub (Documentação e Gerenciamento):** Utilizado para versionamento, controle de alterações e colaboração da equipe, garantindo organização e rastreabilidade do projeto.
- - **Canvas (Interface):** Escolhido para o desenvolvimento da interface devido à sua flexibilidade e capacidade de criar layouts interativos e responsivos, garantindo uma melhor experiência visual e usabilidade.
+ - **Figma (Interface):** Escolhido para o desenvolvimento da interface devido à sua flexibilidade e capacidade de criar layouts interativos e responsivos, garantindo uma melhor experiência visual e usabilidade.
  - **VS code (Front-end):** Escolhido por sua leveza, suporte a múltiplas linguagens e integração com Git, facilitando o desenvolvimento e a manutenção do código.
- - **MongoDB (Banco de dados):** Optamos pelo MongoDB devido à sua flexibilidade e escalabilidade, permitindo o armazenamento eficiente de dados em formato JSON.
+ - **MySQL (Banco de dados):** Optamos pelo MySQL devido à sua estrutura relacional consolidada, que oferece robustez, integridade dos dados e facilidade na realização de consultas complexas por meio da linguagem SQL.
 
 ### Ferramentas
 
