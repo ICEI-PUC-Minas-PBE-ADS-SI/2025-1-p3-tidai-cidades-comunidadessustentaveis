@@ -1,11 +1,12 @@
+# Considerações Finais
+
+<p align="justify">As referências selecionadas para este trabalho englobam fundamentos teóricos, metodológicos e práticos essenciais para o desenvolvimento da plataforma de gestão da infraestrutura urbana proposta. Obras clássicas e atualizadas nas áreas de algoritmos, banco de dados, inteligência artificial, desenvolvimento web e engenharia de software forneceram a base técnica para a modelagem, implementação e otimização do sistema.</p>
+<p align="justify">Além disso, as referências a ferramentas e padrões tecnológicos, como Figma, GitHub, Visual Studio Code, Bootstrap e a norma ISO/IEC 25010, foram fundamentais para assegurar a qualidade, colaboração e usabilidade do produto final. A integração de conceitos modernos de metodologias ágeis, por meio do Scrum, e tecnologias de desenvolvimento robustas, como Node.js, sustentam a eficiência e escalabilidade da solução.</p>
+<p align="justify">Dessa forma, o conjunto de referências contribuiu para embasar as decisões técnicas e garantir a aderência do projeto às melhores práticas do mercado e da academia, reforçando a relevância e a aplicabilidade da plataforma no contexto da gestão urbana.</p>
+
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc.) utilizadas no desenvolvimento do trabalho.
-
-
 - BENYON, David. **Interação humano-computador**. 2. ed. São Paulo: Pearson Prentice Hall, 2011.
-
-- CORMEN, Thomas H et al. **Algoritmos:** teoria e prática. 4. ed. Rio de Janeiro: GEN LTC, 2024.
  
 - ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019.
 
