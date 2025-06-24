@@ -106,5 +106,5 @@ Legenda:
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/mai                        |
 | Projeto de interface                | Canvas                             | https://www.canva.com/design/DAGhXuqY1m0/k-_0P_ylrLWH7eWcf_YAxA/edit?utm_content=DAGhXuqY1m0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton                            |
 | Gerenciamento do projeto            | GitHub Projects                    | https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p3-tidai-cidades-comunidadessustentaveis/tree/mai                         |
-| Hospedagem                          | A defenir                           | http://....                            |
+| Hospedagem                          | Vercel                           | https://cidades-sustentaveis.vercel.app                         |
  
