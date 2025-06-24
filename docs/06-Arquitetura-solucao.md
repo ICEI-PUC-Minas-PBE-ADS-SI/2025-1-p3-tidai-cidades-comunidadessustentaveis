@@ -110,13 +110,10 @@ O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foram realizados.
+<p align="justify">A hospedagem e o lançamento da plataforma foram realizados utilizando o GitHub Pages, uma ferramenta gratuita oferecida pelo GitHub para publicação de sites estáticos (HTML, CSS, JavaScript).</p>
+<p align="justify">O processo foi simples e direto. Primeiramente, os arquivos do projeto foram organizados em uma pasta local e enviados para um repositório público no GitHub. Em seguida, através das configurações do repositório, a opção GitHub Pages foi ativada, permitindo que o conteúdo da branch main (na raiz do projeto) fosse publicado como um site.</p>
+<p align="justify">Com isso, a plataforma ficou acessível por meio de um link público, disponibilizado automaticamente pelo GitHub, sem a necessidade de servidores próprios ou configurações complexas.</p>
 
-> **Links úteis**:
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando seu site no Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
 
 ## Qualidade de software
 
