@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cidades Sustentáveis</title>
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="https://kit.fontawesome.com/99ff6b0cd3.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>
+    <div class="navbar">
+      <div class="logo">
+        <i class="fas fa-leaf"></i> CidadesSustentáveis
+      </div>
+      <nav>
+        <a href="index.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="mapa.html">Mapa</a>
+      </nav>
+      <a class="login-btn" href="login.html"><i class="fas fa-user"></i> Entrar</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero bg-light">
+      <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="assets/luz-solar.jpg" alt="Banner 1">
+          </div>
+          <div class="swiper-slide">
+            <img src="assets/cidade.jpg" alt="Banner 2">
+          </div>
+          <div class="swiper-slide">
+            <img src="assets/cidade-sustentavel.png" alt="Banner 3">
+          </div>
+        </div>
+
+        <!-- Navegação -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+        <!-- Paginação -->
+        <div class="swiper-pagination"></div>
+      </div>
+
+      <h1>Cidadania Participativa</h1>
+      <p>Transforme sua cidade através de uma plataforma que conecta cidadãos e autoridades para resolver problemas de
+        infraestrutura urbana de forma eficiente e transparente.</p>
+      <div class="buttons">
+        <button id="btn-status" class="btn-outline">Verificar status da denúncia</button>
+        <button id="btn-registrar" class="btn-filled">Registrar denúncia</button>
+      </div>
+
+    </section>
+
+    <section class="como-funciona bg-white">
+      <h2>Como Funciona</h2>
+      <p class="descricao">A InfraUrbana Conecta foi desenvolvida para facilitar a comunicação entre cidadãos e
+        autoridades. Conheça as etapas simples do processo:</p>
+
+      <div class="etapas">
+        <div class="etapa">
+          <div class="icon-circle blue-bg"><i class="fas fa-map-marker-alt"></i></div>
+          <h3>Identificar</h3>
+          <p>Identifique um problema de infraestrutura em sua região e registre com detalhes.</p>
+        </div>
+        <div class="etapa">
+          <div class="icon-circle green-bg"><i class="fas fa-flag"></i></div>
+          <h3>Reportar</h3>
+          <p>Faça seu relato com fotos e localização precisa para agilizar o atendimento.</p>
+        </div>
+        <div class="etapa">
+          <div class="icon-circle yellow-bg"><i class="fas fa-search"></i></div>
+          <h3>Monitorar</h3>
+          <p>Acompanhe o status da sua solicitação e seja notificado sobre atualizações.</p>
+        </div>
+        <div class="etapa">
+          <div class="icon-circle purple-bg"><i class="fas fa-wrench"></i></div>
+          <h3>Resolver</h3>
+          <p>Os órgãos responsáveis recebem, analisam e resolvem o problema reportado.</p>
+        </div>
+      </div>
+
+      <p class="resumo-final">
+        Nossa plataforma simplifica todo o processo, da identificação até a resolução, garantindo transparência e
+        eficiência.
+      </p>
+    </section>
+
+
+    <section class="recursos bg-light">
+      <h2>Recursos</h2>
+      <p>Nossa plataforma oferece diversos recursos para melhorar a experiência do usuário e facilitar a comunicação com
+        as autoridades competentes.</p>
+      <div class="recursos-grid">
+        <div class="recurso">
+          <i class="fas fa-clock icon green"></i>
+          <h3>Acompanhamento em Tempo Real</h3>
+          <p>Acompanhe o status de sua denúncia em tempo real, com atualizações sempre que houver mudanças.</p>
+        </div>
+        <div class="recurso">
+          <i class="fas fa-map icon green"></i>
+          <h3>Mapeamento de Problemas</h3>
+          <p>Visualize em um mapa interativo os problemas reportados em sua região e acompanhe o progresso.</p>
+        </div>
+        <div class="recurso">
+          <i class="fas fa-file-alt icon green"></i>
+          <h3>Relatórios Detalhados</h3>
+          <p>Gere relatórios detalhados sobre os problemas reportados e as soluções implementadas.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <h2>Faça parte da transformação da sua cidade</h2>
+      <p>Junte-se a nós e contribua para uma cidade mais sustentável e acessível para todos.</p>
+      <button id="btn-registrar" class="btn-filled">Registrar denúncia</button>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3><i class="fas fa-leaf"></i> CidadesSustentáveis</h3>
+        <p>Plataforma dedicada à melhoria da infraestrutura urbana através da participação ativa dos cidadãos.</p>
+        <div class="social-icons">
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-twitter"></i>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Links Úteis</h4>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="#">Relatórios</a></li>
+          <li><a href="login.html">Login</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contato</h4>
+        <p>Av. das Cidades, 1000<br>Centro, Betim - MG</p>
+        <p><i class="fas fa-phone"></i> (31) 9999-9999</p>
+        <p><i class="fas fa-envelope"></i> contato@cidadessustentaveis.com.br</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© CidadesSustentáveis. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+  <script src="js/index.js"></script>
+</body>
+
+<script>
+  const swiper = new Swiper(".mySwiper", {
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev"
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true
+    }
+  });
+</script>
+
+
+</html>

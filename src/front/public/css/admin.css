@@ -1,0 +1,212 @@
+/* style.css - Dashboard Admin */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f6fa;
+}
+
+.sidebar {
+  width: 220px;
+  height: 100vh;
+  position: fixed;
+  background: #fff;
+  border-right: 1px solid #ddd;
+  padding: 2rem 1rem;
+}
+
+.sidebar h2 {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+.sidebar h2 span {
+  color: #3e6d34;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 0.8rem 0;
+  cursor: pointer;
+  font-weight: 500;
+  color: #333;
+  transition: 0.3s;
+}
+
+.sidebar li.ativo,
+.sidebar li:hover {
+  color: #3e6d34;
+}
+
+.sidebar li.sair {
+  color: red;
+  margin-top: 2rem;
+}
+
+main.conteudo {
+  margin-left: 240px;
+  padding: 2rem;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.bemvindo {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #fff;
+  padding: 1.2rem;
+  flex: 1;
+  min-width: 220px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #555;
+}
+
+.card p strong {
+  font-size: 1.6rem;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.grafico h2,
+.nova-ocorrencia h2,
+.ocorrencias-recentes h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #2e5529;
+}
+
+.graficos {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.caixa {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  flex: 1;
+  min-width: 180px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.caixa span {
+  display: block;
+  margin: 0.5rem 0;
+  color: #555;
+}
+
+.barra {
+  width: 100%;
+  height: 8px;
+  background: #e0e0e0;
+  border-radius: 5px;
+}
+
+.preenchido {
+  height: 100%;
+  border-radius: 5px;
+}
+
+.preenchido.azul { background: #2196f3; }
+.preenchido.verde { background: #4caf50; }
+.preenchido.laranja { background: #ff9800; }
+
+.nova-ocorrencia form {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.nova-ocorrencia input,
+.nova-ocorrencia select {
+  flex: 1 1 200px;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+.nova-ocorrencia button {
+  padding: 0.6rem 1.2rem;
+  background: #3e6d34;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nova-ocorrencia button:hover {
+  background: #2e5529;
+}
+
+.ocorrencias-recentes ul {
+  margin-top: 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.ocorrencia-item {
+  background: #fff;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.ocorrencia-item .titulo {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.ocorrencia-item .endereco,
+.ocorrencia-item .data {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.status {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: white;
+}
+
+.status.pendente { background: #ff9800; }
+.status.resolvido { background: #4caf50; }
+.status.em-andamento { background: #2196f3; }

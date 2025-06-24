@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Admin</title>
+  <link rel="stylesheet" href="css/admin.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <aside class="sidebar">
+    <h2>Admin<span>Panel</span></h2>
+    <ul>
+      <li class="ativo">Dashboard</li>
+      <li>Ocorrências</li>
+      <li>Mapa</li>
+      <li>Estatísticas</li>
+      <li>Usuários</li>
+      <li>Relatórios</li>
+      <li>Configurações</li>
+      <li class="sair" onclick="logout()">Sair</li>
+    </ul>
+  </aside>
+
+  <main class="conteudo">
+    <header class="topbar">
+      <button class="btn-voltar" onclick="window.location.href='index.html'">
+        <i class="fas fa-arrow-left"></i> Voltar para Início
+      </button>
+      <h1>Dashboard</h1>
+      <div class="bemvindo">Bem-vindo(a) ao Painel Admin. Você tem <strong>0</strong> ocorrências pendentes para revisão
+        e <strong>0</strong> notificações.</div>
+    </header>
+
+
+
+    <section class="cards">
+      <div class="card">
+        <h3>Total de Ocorrências</h3>
+        <p><strong>0</strong><br><small>+0% em relação ao mês anterior</small></p>
+      </div>
+      <div class="card">
+        <h3>Ocorrências Resolvidas</h3>
+        <p><strong>0</strong><br><small>--</small></p>
+      </div>
+      <div class="card">
+        <h3>Ocorrências Pendentes</h3>
+        <p><strong>0</strong><br><small>--</small></p>
+      </div>
+      <div class="card">
+        <h3>Usuários Registrados</h3>
+        <p><strong>0</strong><br><small>--</small></p>
+      </div>
+    </section>
+
+    <section class="grafico">
+      <h2>Ocorrências por Categoria</h2>
+      <div class="graficos">
+        <div class="caixa"><strong>0</strong><span>Total de Problemas</span>
+          <div class="barra">
+            <div class="preenchido azul" style="width: 0%"></div>
+          </div>
+        </div>
+        <div class="caixa"><strong>0</strong><span>Problemas Resolvidos</span>
+          <div class="barra">
+            <div class="preenchido verde" style="width: 0%"></div>
+          </div>
+        </div>
+        <div class="caixa"><strong>0</strong><span>Problemas Pendentes</span>
+          <div class="barra">
+            <div class="preenchido laranja" style="width: 0%"></div>
+          </div>
+        </div>
+        <div class="caixa"><strong>0</strong><span>Em Andamento</span>
+          <div class="barra">
+            <div class="preenchido verde" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ocorrencias-recentes">
+      <h2>Ocorrências Recentes</h2>
+      <ul id="listaOcorrencias"></ul>
+    </section>
+  </main>
+
+  <script src="js/admin.js"></script>
+  <script>
+    function logout() {
+      localStorage.removeItem("usuarioLogado");
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+
+</html>

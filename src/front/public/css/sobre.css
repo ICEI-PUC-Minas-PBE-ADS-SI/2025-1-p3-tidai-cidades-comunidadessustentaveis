@@ -1,0 +1,158 @@
+/* sobre.css */
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #3e6d34;
+  color: white;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.logo i {
+  margin-right: 0.4rem;
+}
+
+nav a {
+  color: white;
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #b8e986;
+}
+
+.login-btn {
+  background-color: white;
+  color: #3e6d34;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+main {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+
+.sobre h1 {
+  font-size: 2rem;
+  color: #3e6d34;
+  margin-bottom: 1rem;
+}
+
+.sobre h2 {
+  color: #3e6d34;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.sobre p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.sobre ul {
+  padding-left: 1.5rem;
+  margin-top: 1rem;
+}
+
+.sobre ul li {
+  margin-bottom: 0.5rem;
+}
+
+.imagem-sobre {
+  width: 100%;
+  max-height: 350px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  background-color: #2e5529;
+  color: white;
+  padding: 2rem 1rem 1rem 1rem;
+  margin-top: 3rem;
+}
+
+.footer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.footer-col h3, .footer-col h4 {
+  margin-bottom: 0.8rem;
+}
+
+.footer-col p, .footer-col ul, .footer-col li {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-col li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-col li a:hover {
+  color: #b8e986;
+}
+
+.social-icons i {
+  margin-right: 0.8rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.social-icons i:hover {
+  color: #b8e986;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 1rem;
+  border-top: 1px solid #466647;
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+}

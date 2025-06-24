@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa Interativo - Betim, MG</title>
+  <link rel="stylesheet" href="css/mapa.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://kit.fontawesome.com/99ff6b0cd3.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <header>
+    <div class="navbar">
+      <div class="logo"><i class="fas fa-leaf"></i> CidadesSustentáveis</div>
+      <nav>
+        <a href="index.html">Início</a>
+        <a href="#">Sobre</a>
+        <a href="#">Mapa</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="map-section">
+    <h2>Problemas Reportados em Betim</h2>
+    <div class="map-container">
+      <div id="map"></div>
+
+      <div class="filtros">
+        <h4>Filtrar por:</h4>
+        <button onclick="filtrar('todos')" class="active">Todos</button>
+        <button onclick="filtrar('buraco')">Buraco</button>
+        <button onclick="filtrar('iluminacao')">Iluminação</button>
+        <button onclick="filtrar('esgoto')">Esgoto</button>
+      </div>
+
+      <div class="legenda">
+        <div><span class="cor buraco"></span> Buraco na via</div>
+        <div><span class="cor iluminacao"></span> Iluminação pública</div>
+        <div><span class="cor esgoto"></span> Vazamento de esgoto</div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3><i class="fas fa-leaf"></i> CidadesSustentáveis</h3>
+        <p>Plataforma dedicada à melhoria da infraestrutura urbana através da participação ativa dos cidadãos.</p>
+        <div class="social-icons">
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-twitter"></i>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Links Úteis</h4>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="#">Relatórios</a></li>
+          <li><a href="login.html">Login</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contato</h4>
+        <p>Av. das Cidades, 1000<br>Centro, Betim - MG</p>
+        <p><i class="fas fa-phone"></i> (31) 9999-9999</p>
+        <p><i class="fas fa-envelope"></i> contato@cidadessustentaveis.com.br</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© CidadesSustentáveis. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([-19.9677, -44.1987], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+    const problemas = [
+      { tipo: 'buraco', lat: -19.960, lng: -44.190, descricao: 'Buraco na Rua das Acácias, 123', data: '2025-05-10' },
+      { tipo: 'iluminacao', lat: -19.975, lng: -44.210, descricao: 'Poste apagado - Av. Amazonas, 456', data: '2025-05-12' },
+      { tipo: 'esgoto', lat: -19.950, lng: -44.180, descricao: 'Vazamento de esgoto - Praça Central', data: '2025-05-15' },
+      { tipo: 'buraco', lat: -19.970, lng: -44.195, descricao: 'Asfalto afundado - Rua 7 de Setembro', data: '2025-05-14' }
+    ];
+
+    const marcadores = [];
+    const cores = {
+      buraco: 'red',
+      iluminacao: 'orange',
+      esgoto: 'green'
+    };
+
+    problemas.forEach(p => {
+      const marker = L.circleMarker([p.lat, p.lng], {
+        radius: 10,
+        color: cores[p.tipo],
+        fillColor: cores[p.tipo],
+        fillOpacity: 0.7
+      }).addTo(map)
+        .bindPopup(`<strong>${p.descricao}</strong><br>Data: ${p.data}`);
+      marker.tipo = p.tipo;
+      marcadores.push(marker);
+    });
+
+    function filtrar(tipo) {
+      document.querySelectorAll(".filtros button").forEach(btn => btn.classList.remove("active"));
+      document.querySelector(`.filtros button[onclick*="${tipo}"]`).classList.add("active");
+
+      marcadores.forEach(m => {
+        if (tipo === 'todos' || m.tipo === tipo) {
+          m.addTo(map);
+        } else {
+          map.removeLayer(m);
+        }
+      });
+    }
+  </script>
+
+</body>
+
+</html>

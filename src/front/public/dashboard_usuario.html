@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Usuário</title>
+    <link rel="stylesheet" href="css/usuario.css">
+    <!-- Certifique-se que você tem o Font Awesome para os ícones, ou inclua o CDN -->
+    <script src="https://kit.fontawesome.com/99ff6b0cd3.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <aside class="sidebar">
+        <h2>Cidadão<span>Portal</span></h2>
+        <ul>
+            <li class="ativo" id="menu-dashboard">Dashboard</li>
+            <li id="menu-problemas">Meus Problemas</li>
+            <li id="menu-mapa">Mapa</li>
+            <li>Notificações</li>
+            <li>Meu Perfil</li>
+            <li class="sair" onclick="logout()">Sair</li>
+        </ul>
+    </aside>
+
+    <main class="conteudo">
+        <div id="topo-dashboard">
+            <header class="topbar">
+                <button class="btn-voltar" onclick="window.location.href='index.html'">
+                    <i class="fas fa-arrow-left"></i> Voltar para Início
+                </button>
+                <h1>Meu Painel</h1>
+                <div class="bemvindo">
+                    Bem-vindo(a) ao Portal do Cidadão! Aqui você pode reportar e acompanhar problemas urbanos.
+                </div>
+            </header>
+        </div>
+
+        <section id="nova-ocorrencia" class="nova-ocorrencia">
+            <h2>Reportar um Problema</h2>
+            <p>Preencha o formulário abaixo para relatar um problema de infraestrutura na sua região.</p>
+            <form id="formUsuario">
+                <input type="text" id="titulo" placeholder="Título do Problema" required>
+
+                <select id="categoria" required>
+                    <option value="">Selecione o tipo de problema</option>
+                    <option value="água">Vazamento de água</option>
+                    <option value="iluminação">Iluminação</option>
+                    <option value="buraco">Buraco na via</option>
+                    <option value="outros">Outros</option>
+                </select>
+
+                <input type="text" id="endereco" placeholder="Endereço" required>
+
+                <textarea id="descricao" placeholder="Descreva detalhadamente o problema..." rows="4"></textarea>
+
+                <input type="file" id="foto" multiple accept="image/*">
+                <small>Você pode adicionar até 3 fotos (5MB máx. cada)</small>
+
+                <button type="submit">Reportar Problema</button>
+                <!-- Rem: Adicionei esta div para exibir mensagens de status -->
+                <div id="denunciaMensagem" class="mensagem"></div>
+            </form>
+        </section>
+
+        <section id="meus-problemas" class="ocorrencias-recentes">
+            <h2>Meus Problemas Reportados</h2>
+            <ul id="listaUsuario"></ul>
+        </section>
+    </main>
+
+    <script src="js/usuario.js"></script>
+    <script>
+        function logout() {
+            localStorage.removeItem("usuarioLogado");
+            window.location.href = "index.html";
+        }
+        document.addEventListener("DOMContentLoaded", function () {
+            const problemasBtn = document.getElementById("menu-problemas");
+            if (problemasBtn) {
+                problemasBtn.onclick = function () {
+                    const problemasSec = document.querySelector(".ocorrencias-recentes") || document.getElementById("meus-problemas");
+                    if (problemasSec) problemasSec.scrollIntoView({ behavior: "smooth" });
+                };
+            }
+
+            const mapaBtn = document.getElementById("menu-mapa");
+            if (mapaBtn) {
+                mapaBtn.onclick = function () {
+                    window.location.href = "mapa.html";
+                };
+            }
+        });
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const problemasBtn = document.getElementById("menu-problemas");
+            const secaoProblemas = document.getElementById("meus-problemas");
+            const secaoNovaOcorrencia = document.getElementById("nova-ocorrencia");
+            const topoDashboard = document.getElementById("topo-dashboard");
+
+            if (problemasBtn && secaoProblemas && secaoNovaOcorrencia && topoDashboard) {
+                problemasBtn.onclick = function () {
+                    secaoProblemas.style.display = "block";
+                    secaoNovaOcorrencia.style.display = "none";
+                    topoDashboard.style.display = "none";
+                };
+            }
+
+            const dashboardBtn = document.getElementById("menu-dashboard");
+            if (dashboardBtn && secaoProblemas && secaoNovaOcorrencia && topoDashboard) {
+                dashboardBtn.onclick = function () {
+                    secaoProblemas.style.display = "block";
+                    secaoNovaOcorrencia.style.display = "block";
+                    topoDashboard.style.display = "block";
+                };
+            }
+        });
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const problemasBtn = document.getElementById("menu-problemas");
+            const secaoProblemas = document.getElementById("meus-problemas");
+            const secaoNovaOcorrencia = document.getElementById("nova-ocorrencia");
+            const topoDashboard = document.getElementById("topo-dashboard");
+            const dashboardBtn = document.getElementById("menu-dashboard");
+
+            function mostrarSoMeusProblemas() {
+                if (secaoProblemas && secaoNovaOcorrencia && topoDashboard) {
+                    secaoProblemas.style.display = "block";
+                    secaoNovaOcorrencia.style.display = "none";
+                    topoDashboard.style.display = "none";
+                }
+            }
+
+            function mostrarDashboardCompleto() {
+                if (secaoProblemas && secaoNovaOcorrencia && topoDashboard) {
+                    secaoProblemas.style.display = "block";
+                    secaoNovaOcorrencia.style.display = "block";
+                    topoDashboard.style.display = "block";
+                }
+            }
+
+            if (problemasBtn) {
+                problemasBtn.onclick = mostrarSoMeusProblemas;
+            }
+            if (dashboardBtn) {
+                dashboardBtn.onclick = mostrarDashboardCompleto;
+            }
+
+            if (window.location.hash === "#meus-problemas") {
+                mostrarSoMeusProblemas();
+                secaoProblemas.scrollIntoView({ behavior: "smooth" });
+            } else {
+                mostrarDashboardCompleto();
+            }
+        });
+    </script>
+</body>
+</html>

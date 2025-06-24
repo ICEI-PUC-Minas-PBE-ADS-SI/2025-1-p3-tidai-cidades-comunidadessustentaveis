@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Login / Cadastro - Cidades Sustentáveis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/login.css">
+    <script src="https://kit.fontawesome.com/99ff6b0cd3.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/imask"></script>
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="navbar-content">
+            <div class="logo">
+                <i class="fas fa-leaf"></i> CidadesSustentáveis
+            </div>
+            <nav>
+                <a href="index.html" title="Voltar para a página inicial">
+                    <i class="fas fa-arrow-left"></i>
+                </a>
+            </nav>
+        </div>
+    </header>
+
+
+    <main class="container">
+        <h2 class="titulo">PÁGINA DE CADASTRO</h2>
+
+        <div class="form-box">
+            <div class="tabs">
+                <div class="tab-buttons">
+                    <button id="btnLogin" class="tab-btn active" onclick="showLogin()">Login</button>
+                    <button id="btnCadastro" class="tab-btn" onclick="showCadastro()">Cadastro</button>
+                    <div class="tab-indicator" id="indicator"></div>
+                </div>
+            </div>
+
+
+            <!-- Formulário de Login -->
+            <form id="formLogin" class="form-content active">
+                <h3>Acessar sua conta</h3>
+                <p>Entre com seu e-mail e senha para acessar a plataforma.</p>
+
+                <label for="login-email">E-mail</label>
+                <input type="email" id="login-email" placeholder="seu@email.com" required>
+
+                <label for="login-senha">Senha</label>
+                <input type="password" id="login-senha" required>
+
+                <div class="esqueceu"><a href="#">Esqueceu a senha?</a></div>
+
+                <button type="submit" class="btn-form">Entrar</button>
+                <div id="mensagem" class="mensagem"></div>
+            </form>
+
+            <!-- Formulário de Cadastro -->
+            <form id="formCadastro" class="form-content">
+                <h3>Crie seu cadastro</h3>
+                <p>Preencha os campos abaixo para se cadastrar na plataforma.</p>
+
+                <div class="duplo">
+                    <div>
+                        <label>Nome *</label>
+                        <input type="text" id="nome" required>
+                    </div>
+                    <div>
+                        <label>Sobrenome *</label>
+                        <input type="text" id="sobrenome" required>
+                    </div>
+                </div>
+
+                <label>CPF *</label>
+                <input type="text" id="cpf" placeholder="000.000.000-00" required>
+
+                <label>Telefone *</label>
+                <input type="tel" id="telefone" placeholder="(00) 00000-0000" required>
+
+                <label>E-mail *</label>
+                <!-- Adicionado id="cadastro-email" aqui -->
+                <input type="email" id="cadastro-email" placeholder="seu@email.com" required>
+
+                <label>Senha *</label>
+                <!-- Adicionado id="cadastro-senha" aqui -->
+                <input type="password" id="cadastro-senha" required>
+
+                <label><input type="checkbox" required> Concordo com os termos e políticas</label>
+
+                <button type="submit" class="btn-form">Cadastre-se</button>
+                <div id="mensagem" class="mensagem"></div>
+            </form>
+        </div>
+    </main>
+
+    <script src="/js/login.js"></script>
+</body>
+</html>
