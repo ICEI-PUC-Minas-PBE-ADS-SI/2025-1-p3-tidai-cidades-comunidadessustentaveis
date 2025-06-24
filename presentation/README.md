@@ -32,15 +32,9 @@
 
 ## Vídeo
 
-O grupo também deverá gravar um vídeo de até cinco minutos apresentando a solução. O vídeo deve incluir uma demonstração da aplicação hospedada, mostrando seu funcionamento.
+<p align="justify">Neste vídeo, apresentamos o funcionamento da nossa plataforma de registro de denúncias. O objetivo é demonstrar, de forma clara e prática, como os usuários podem utilizar o sistema para relatar problemas de infraestrutura urbana, como buracos nas ruas, iluminação pública defeituosa, entre outros.</p>
+<p align="justify">A proposta da plataforma é oferecer uma solução simples, acessível e eficiente para facilitar a comunicação entre a população e os órgãos responsáveis, promovendo melhorias na cidade de forma colaborativa.</p>
+<p align="justify">Assista ao vídeo e veja como é fácil utilizar o sistema!</p>
 
-Podem utilizar quaisquer recursos na produção do vídeo, mas certifiquem-se de destacar as funcionalidades da aplicação.
-
-A seguir, estão as especificações técnicas que devem ser seguidas na criação do vídeo:
-
-> - tamanho do arquivo limitado a 90Mb
-> - taxa de FPS limitada a 30 quadros por segundo
-> - resolução HD (720p) ou Full HD (1080p)
-> - formato mp4.
-
+https://drive.google.com/file/d/1fuXUAbA8PGMQIbjpl04TKs7rY0SYolSo/view?usp=sharing
 
