@@ -14,7 +14,7 @@
 |Documentação do projeto     | Github               | Registra informações sobre o funcionamento do sistema e seu desenvolvimento. |
 |Protótipo do projeto      | Figma            | Utilizado para criar e validar a interface antes da implementação. |
 |Desenvolvimento da interface      | Visual Studio Code                | Utilizado para codificação do sistema em HTML, CSS e JavaScript. |
-|Banco de dados       | MySQL              | Armazena as informações sobre os problemas de infraestrutura urbana cadastrados pelos usuários. |
+|Banco de dados       | MongoDB              |Armazena em formato de documentos as informações sobre os problemas de infraestrutura urbana cadastrados pelos usuários no banco de dados.|
 
 
 ## Controle de versão
