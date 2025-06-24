@@ -93,7 +93,7 @@ Legenda:
  - **GitHub (Documentação e Gerenciamento):** Utilizado para versionamento, controle de alterações e colaboração da equipe, garantindo organização e rastreabilidade do projeto.
  - **Figma (Interface):** Escolhido para o desenvolvimento da interface devido à sua flexibilidade e capacidade de criar layouts interativos e responsivos, garantindo uma melhor experiência visual e usabilidade.
  - **VS code (Front-end):** Escolhido por sua leveza, suporte a múltiplas linguagens e integração com Git, facilitando o desenvolvimento e a manutenção do código.
- - **MySQL (Banco de dados):** Optamos pelo MySQL devido à sua estrutura relacional consolidada, que oferece robustez, integridade dos dados e facilidade na realização de consultas complexas por meio da linguagem SQL.
+ - **MongoDB (Banco de dados):** Optamos pelo MongoDB devido à sua estrutura não relacional baseada em documentos, que oferece flexibilidade na modelagem dos dados, escalabilidade e facilidade na manipulação de grandes volumes de informações.
 
 ### Ferramentas
 
