@@ -110,9 +110,9 @@ O Front-End é bem simples e utiliza HTML, CSS e JS para assumir sua "fisionomia
 
 ## Hospedagem
 
-<p align="justify">A hospedagem e o lançamento da plataforma foram realizados utilizando o GitHub Pages, uma ferramenta gratuita oferecida pelo GitHub para publicação de sites estáticos (HTML, CSS, JavaScript).</p>
-<p align="justify">O processo foi simples e direto. Primeiramente, os arquivos do projeto foram organizados em uma pasta local e enviados para um repositório público no GitHub. Em seguida, através das configurações do repositório, a opção GitHub Pages foi ativada, permitindo que o conteúdo da branch main (na raiz do projeto) fosse publicado como um site.</p>
-<p align="justify">Com isso, a plataforma ficou acessível por meio de um link público, disponibilizado automaticamente pelo GitHub, sem a necessidade de servidores próprios ou configurações complexas.</p>
+<p align="justify">A hospedagem da plataforma foi realizada por meio da Vercel, uma solução moderna e gratuita voltada para o deploy de aplicações web estáticas e dinâmicas. Essa plataforma é amplamente utilizada por desenvolvedores devido à sua integração nativa com o GitHub e à facilidade de automação de deploys.</p>
+<p align="justify">O processo consistiu na organização dos arquivos do projeto em um repositório no GitHub, seguido pela vinculação desse repositório à conta da Vercel. A partir dessa integração, a Vercel realizou o build e a publicação automática da aplicação, tornando-a acessível por meio de um domínio público fornecido pela própria plataforma.</p>
+<p align="justify">Essa abordagem eliminou a necessidade de configuração manual de servidores, garantindo uma implantação rápida, segura e escalável da solução.</p>
 
 
 ## Qualidade de software
