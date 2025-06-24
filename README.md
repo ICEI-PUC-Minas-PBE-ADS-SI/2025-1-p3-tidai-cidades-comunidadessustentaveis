@@ -22,10 +22,13 @@
 
 ## Link do site e Usuario ADM
 
-https://cidades-sustentaveis.vercel.app
+<p align="justify">Para fins de avaliação e demonstração, seguem abaixo as credenciais de acesso ao ambiente administrativo da plataforma:</p>
 
-Usario: admin@gmail.com
-senha: pucminas
+- **URL de acesso:** https://cidades-sustentaveis.vercel.app
+- **Usuário:** admin@gmail.com
+- **Senha:** pucminas
+
+<p align="justify">Com essas credenciais, é possível acessar o painel administrativo do sistema, onde estão disponíveis funcionalidades como o gerenciamento das denúncias cadastradas, visualização de dados e controle das informações reportadas pelos usuários.</p>
 
 # Documentação
 
